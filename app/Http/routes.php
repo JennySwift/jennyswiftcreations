@@ -15,6 +15,11 @@ Route::get('/', 'WelcomeController@index');
 
 Route::get('home', 'HomeController@index');
 
+Route::get('/privacy-policy', ['as' => 'privacy-policy', function()
+{
+	return view('privacy-policy');
+}]);
+
 Route::controllers([
 	'auth' => 'Auth\AuthController',
 	'password' => 'Auth\PasswordController',
