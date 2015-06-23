@@ -40,9 +40,11 @@
 		</ul>
 
 		<h1>Who I share it with</h1>
-		<p>I respect that your data may be confidential and will try not to let others see it, unless I receive your permission. Actually, I am uncomfortable with the fact that I have access to your data. But I need to have access to it in order for my applications to work. I may also view it in order to try to improve my applications and become a better programmer, or to see how much my apps are getting used.</p>
+		<p>I respect that your data may be confidential and will try not to let others see it, unless I receive your permission (although there are exceptions, mentioned here). Actually, I am uncomfortable with the fact that I have access to your data. But I need to have access to it in order for my applications to work. I may also view it in order to try to improve my applications and become a better programmer, or to see how much my apps are getting used.</p>
 		<p>Unless you tell me otherwise, I will assume any communication with me does not contain confidential information, and I may share it. For example, if you send me a feature request, I may share it with friends, family, or other programmers for brainstorming.</p>
-		<p>And of course if you choose to share something (I may one day create features for my apps that allow data sharing), it will be shared with whom you choose to share it with.</p>
+		<p>And of course if you choose to share something, (for example, if you create a project with another user of my tracker app) it will be shared with whom you choose to share it with.</p>
+        <p>In order to provide real-time functionality to my apps, I use the <a href="https://pusher.com/">Pusher</a> service, a third-party solution, to transfer data. You can view their privacy policy
+            <a href="https://pusher.com/legal/privacy">here</a>.</p>
 
 		<h1>Data backups</h1>
 		<p>I take backups of my databases. I may store them on any/all of the following:</p>
