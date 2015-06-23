@@ -11,7 +11,7 @@
 		
 		<!-- <h1>About this Policy</h1> -->
 		<h1>Privacy Policy</h1>
-		<p>Last modified: 15/05/2015</p>
+		<p>Last modified: 23/06/2015</p>
 
 		I respect your privacy and really want you to be comfortable using my creations. :)
 
