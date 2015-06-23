@@ -269,3 +269,7 @@ body {
   position: fixed;
   left: 17px;
   bottom: 50px; }
+
+#privacy-policy a {
+  text-decoration: underline;
+  color: #0083ff; }

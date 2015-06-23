@@ -27,6 +27,7 @@
 				<ul>
 					<li>I need these details so that you can use my applications. Without them you would not be able to sign in.</li>
 					<li>I may also use these details to get in touch with you. For example, if there is an issue regarding my application, to request feedback on your experience using it, to thank you for using my app, or to say 'hi.' :)</li>
+					<li>I may also use your email address with the <a href="https://en.gravatar.com/">Gravatar</a> service. This allows me to use your profile info, for example, to display your profile picture to you and other users of my apps.</li>
 				</ul>		
 			</li>
 
