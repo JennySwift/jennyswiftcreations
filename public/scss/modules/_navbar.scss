@@ -1,17 +1,31 @@
+
 #navbar {
-	display:flex;
-	display: -webkit-flex;
-	justify-content: space-around;
-	-webkit-justify-content: space-around;
-	background: white;
-	position: fixed;
-	top: 0;
-	width: 100%;
-	padding: 0;
-	li {
-		padding: 10px 0;
-		a {
-			color: #777;
-		}
-	}
+    display:flex;
+    justify-content: space-around;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    color: #888;
+    background: #000000;
+    padding: 0;
+    margin: 0;
+    > li {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        height: 44px;
+        min-width: 70px;
+        > a {
+            transition: all .5s ease;
+        }
+        &:hover {
+            > a {
+                font-size: 25px;
+            }
+        }
+    }
+    a {
+        color: #337ab7;
+    }
 }
