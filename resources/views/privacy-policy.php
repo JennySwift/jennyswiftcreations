@@ -60,6 +60,8 @@
 		<p>Passwords are stored encrypted in my databases.</p>
 		<p>I don't use SSL. I may use it in the future. Please let me know if this is a high priority for you.</p>
 
+        <h1>Cookies</h1>
+        <p>My apps may use cookies. You can disable them in your browser settings, but doing so may cause negative effects, such as the 'remember me' feature on the login pages not working.</p>
 		
 		<!-- <p><strong>What to read first</strong></p> -->
 		<!-- <p>The best place to start is by reading our simplified privacy policy which can be found here. It is a great way to get an understanding of how we collect, use and disclose your personal information. The extended privacy policy will give you a more comprehensive explanation of how your data is handled by Jenny Swift Creations. -->
