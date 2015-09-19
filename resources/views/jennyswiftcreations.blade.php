@@ -5,11 +5,6 @@
 	<title>jennyswiftcreations</title>
     <link rel="stylesheet" href="tools/bootstrap.min.css">
 	<link rel="stylesheet" href="css/style.css">
-	<style>
-		p {
-			font-size: 18px;
-		}
-	</style>
 </head>
 <body>
     @include('templates.header')
@@ -19,15 +14,7 @@
 		
 	</div>
 	
-	<footer>
-        <li>
-            <a href="<?php echo route('privacy-policy'); ?>">Privacy Policy</a>
-        </li>
-
-        <li>
-            <a href="#">Credits</a>
-        </li>
-	</footer>
+	@include('templates.footer')
 		
 </body>
 </html>

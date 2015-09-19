@@ -13,41 +13,32 @@ $expense_background: $light_blue; */
 	border-radius: 5px;
 	text-align: center;
 } */
-body {
-  margin: 0;
-  padding-top: 60px;
-  color: #777; }
-
-.main {
-  width: 800px;
-  margin: auto; }
-
-footer {
-  display: flex;
-  justify-content: space-around;
-  padding: 11px;
-  background: #000000;
-  height: 60px;
-  position: relative;
-  margin-top: -60px; }
-  footer li {
-    display: flex;
-    align-items: center; }
-
-a {
-  text-decoration: none;
-  color: #337ab7; }
-
 html, body {
   height: 100%; }
 
 body {
-  display: flex;
-  flex-direction: column; }
+  padding-top: 40px;
+  color: #777; }
   body .main {
-    flex-grow: 1; }
+    padding-bottom: 60px;
+    min-height: 100%;
+    width: 800px;
+    margin: auto; }
   body footer {
-    padding: 11px; }
+    display: flex;
+    justify-content: space-around;
+    padding: 11px;
+    background: #000000;
+    height: 60px;
+    position: relative;
+    margin-top: -60px; }
+    body footer li {
+      display: flex;
+      align-items: center; }
+
+a {
+  text-decoration: none;
+  color: #337ab7; }
 
 /*==============================font awesome==============================*/
 .fa-home {
@@ -288,6 +279,8 @@ body {
   left: 17px;
   bottom: 50px; }
 
-#privacy-policy a {
-  text-decoration: underline;
-  color: #0083ff; }
+#privacy-policy {
+  font-size: 16px; }
+  #privacy-policy a {
+    text-decoration: underline;
+    color: #0083ff; }
