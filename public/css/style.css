@@ -284,3 +284,10 @@ a {
   #privacy-policy a {
     text-decoration: underline;
     color: #0083ff; }
+
+#credits {
+  padding-top: 20px;
+  font-size: 15px;
+  width: 715px; }
+  #credits h1 {
+    text-align: center; }
