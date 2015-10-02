@@ -26,6 +26,8 @@
     <p><a href="https://www.codementor.io/foxted">Val</a>, my mentor, for changing my life. You can read my reviews for him <a
                 href="https://www.codementor.io/foxted#/review">here</a>.</p>
 
+    <p><a href="https://www.codementor.io/">Codementor</a>, for providing the circumstances for my life to be changed.</p>
+
     <p><a href="https://www.codementor.io/nihantanu">Nish</a>, for the support and friendship.</p>
 
     <p>The following libraries/frameworks:</p>
