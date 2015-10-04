@@ -1,0 +1,25 @@
+.multi-app-container {
+    display: flex;
+    justify-content: center;
+
+    .app-container {
+        width: 600px;
+        img {
+            max-width: 100%;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 3px 3px 5px #777;
+            border-radius: 4px;
+        }
+        .btn-container {
+            display: flex;
+            justify-content: center;
+            margin: 10px 0;
+            .btn {
+                margin: 0 5px;
+                width: 100px;
+            }
+        }
+    }
+}
+
