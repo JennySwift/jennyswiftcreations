@@ -1,18 +1,3 @@
-/*==============================colours==============================*/
-/* $income_background: #B0FFC5; */
-/* $expense_background: #FFD6C8; */
-/* $income_background: $light_blue;
-$expense_background: $light_blue; */
-/*==============================variables==============================*/
-/* $border: .5px solid black; */
-/* @mixin hover_span {
-	position: absolute;
-	background: black;
-	color: white;
-	height: 35px;
-	border-radius: 5px;
-	text-align: center;
-} */
 html, body {
   height: 100%; }
 
@@ -42,63 +27,6 @@ a {
   text-decoration: none;
   color: #337ab7; }
 
-/*==============================font awesome==============================*/
-.fa-home {
-  font-size: 35px; }
-
-.fa-cog {
-  font-size: 31px; }
-
-.fa-bar-chart-o {
-  font-size: 36px; }
-
-.fa-search {
-  font-size: 21px; }
-
-.fa-bars {
-  font-size: 30px; }
-
-.fa-edit {
-  visibility: hidden;
-  font-size: 32px;
-  cursor: pointer; }
-
-.fa-heart {
-  color: #ff6666 !important; }
-
-.delete_category, .delete_account {
-  visibility: hidden;
-  cursor: pointer; }
-
-#budget-button {
-  font-size: 21px; }
-
-.fa-trash-o {
-  font-size: 24px; }
-
-.delete {
-  visibility: hidden;
-  padding: 0 !important;
-  border: none !important;
-  color: red;
-  font-size: 32px;
-  cursor: pointer;
-  position: absolute;
-  z-index: 9;
-  height: 100%;
-  background: none !important;
-  border: none; }
-  .delete.delete-transaction {
-    height: 14px;
-    font-size: 15px;
-    left: 0;
-    top: -4px;
-    line-height: 100%; }
-  .delete.delete_budget {
-    font-size: 15px;
-    right: 0;
-    top: -4px; }
-
 #login-form {
   margin-top: 130px; }
 
@@ -118,9 +46,6 @@ a {
 
 .margin-bottom {
   margin-bottom: 15px; }
-
-.bg-blue {
-  background: #6d84b4; }
 
 .hover:hover {
   background: #b5b5b5; }
@@ -293,6 +218,17 @@ a {
   width: 715px; }
   #credits h1 {
     text-align: center; }
+
+#reviews {
+  width: 600px;
+  margin: 0px auto 20px auto;
+  font-size: 16px; }
+  #reviews .review {
+    margin-bottom: 25px;
+    border: 1px solid #777;
+    border-radius: 4px;
+    padding: 25px;
+    box-shadow: 3px 3px 5px #777; }
 
 .multi-app-container {
   display: flex;
