@@ -25,7 +25,6 @@ body {
   body .main {
     padding-bottom: 60px;
     min-height: 100%;
-    width: 800px;
     margin: auto; }
   body footer {
     display: flex;
@@ -297,15 +296,21 @@ a {
 
 .multi-app-container {
   display: flex;
-  justify-content: center; }
+  flex-direction: column;
+  align-items: center; }
   .multi-app-container .app-container {
-    width: 600px; }
-    .multi-app-container .app-container img {
-      max-width: 100%;
-      padding: 25px;
-      margin-bottom: 20px;
-      box-shadow: 3px 3px 5px #777;
-      border-radius: 4px; }
+    width: 100%; }
+    .multi-app-container .app-container .info-container p {
+      width: 600px;
+      margin: auto; }
+    .multi-app-container .app-container .img-container {
+      text-align: center; }
+      .multi-app-container .app-container .img-container img {
+        padding: 25px;
+        margin-bottom: 20px;
+        box-shadow: 3px 3px 5px #777;
+        border-radius: 4px;
+        width: 600px; }
     .multi-app-container .app-container .btn-container {
       display: flex;
       justify-content: center;
