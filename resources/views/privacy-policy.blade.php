@@ -14,7 +14,7 @@
 <div id="privacy-policy" class="main">
 
     <h1>Privacy Policy</h1>
-    <p>Last modified: 19/09/2015</p>
+    <p>Last modified: 17/10/2015</p>
 
     I respect your privacy and really want you to be comfortable using my creations. :)
 
@@ -48,6 +48,13 @@
     <p>And of course if you choose to share something, (for example, if you create a project with another user of my tracker app) it will be shared with whom you choose to share it with.</p>
     <p>In order to provide real-time functionality to my apps, I use the <a href="https://pusher.com/">Pusher</a> service, a third-party solution, to transfer data. You can view their privacy policy
         <a href="https://pusher.com/legal/privacy">here</a>.</p>
+
+    <h1>CloudFlare</h1>
+    <p>I use <a href="https://www.cloudflare.com/">CloudFlare</a>, a service that improves the performance and security of websites, as well as provides site analytics.</p>
+
+    <p>They sometimes log user interactions, and they may aggregate user data. For example, they may assemble data to determine how spiders crawl the Internet and whether they are engaged in malicious activity, to detect threats so as to stop future attacks, or to populate things like the CloudFlare Analytics page which includes numbers of hits, page views, bandwidth consumed and unique visitors. Public data such as log files of site visitors may be included in the aggregate data, reports and statistics.</p>
+
+    <p>For more info, see <a href="https://www.cloudflare.com/security-policy">their privacy policy</a> and <a href="https://blog.cloudflare.com/what-cloudflare-logs/">this blog post</a>.</p>
 
     <h1>Data backups</h1>
     <p>I take backups of my databases. I may store them on any/all of the following:</p>
