@@ -14,6 +14,7 @@
 
         <h3>Hi and thanks for visiting! :) This site and my apps are still in progress, but feel free to have a look around and try out my demos!</h3>
 
+        <h2 id="looking-for-work">I am looking for remote work. If you are interested, I'd love to hear from you. :)</h2>
         @include('templates.apps')
         @include('templates.reviews')
 

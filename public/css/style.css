@@ -274,6 +274,9 @@ a {
     padding: 25px;
     box-shadow: 3px 3px 5px #777; }
 
+#looking-for-work {
+  color: #5cb85c; }
+
 .multi-app-container {
   display: -webkit-flex;
   display: -ms-flexbox;
