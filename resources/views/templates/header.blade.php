@@ -4,6 +4,10 @@
     <li>
         <a href="/" class="fa fa-home"></a>
     </li>
+    
+    <li>
+        <a href="/contact">Contact me</a>
+    </li>
 
         {{--<li>--}}
             {{--<a href="#">About</a>--}}
