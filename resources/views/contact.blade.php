@@ -14,7 +14,7 @@
 
         <h1>Contact me</h1>
 
-        <p>Email: jennyswiftcreations@gmail.com</p>
+        <p>Email: <a href="mailto:jennyswiftcreations@gmail.com">jennyswiftcreations<i class="fa fa-at"></i>gmail.com</a></p>
 
 
 	</div>

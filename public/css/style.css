@@ -316,5 +316,7 @@ a {
   width: 800px; }
   #contact-me p {
     font-size: 18px; }
+  #contact-me .fa-at {
+    font-size: 17px; }
 
 /*# sourceMappingURL=style.css.map */
