@@ -314,9 +314,10 @@ a {
 
 #contact-me {
   width: 800px; }
-  #contact-me p {
+  #contact-me .content {
+    margin-top: 50px;
     font-size: 18px; }
-  #contact-me .fa-at {
-    font-size: 17px; }
+    #contact-me .content .fa-at {
+      font-size: 17px; }
 
 /*# sourceMappingURL=style.css.map */

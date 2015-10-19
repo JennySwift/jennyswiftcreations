@@ -1,10 +1,12 @@
 #contact-me {
     width: 800px;
-    p {
+    .content {
+        margin-top: 50px;
         font-size: 18px;
+        .fa-at {
+            font-size: 17px;
+        }
     }
-    .fa-at {
-        font-size: 17px;
-    }
+
 
 }

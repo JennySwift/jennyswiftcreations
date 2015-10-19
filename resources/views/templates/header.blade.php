@@ -6,7 +6,7 @@
     </li>
     
     <li>
-        <a href="/contact">Contact me</a>
+        <a href="/contact">Contact/connect</a>
     </li>
 
         {{--<li>--}}
