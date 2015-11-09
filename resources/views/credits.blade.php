@@ -23,8 +23,12 @@
 
     <p>My mum, for getting excited when she sees what I can create, and for brainstorming.</p>
 
-    <p><a href="https://www.codementor.io/foxted">Val</a>, my mentor, for changing my life. You can read my reviews for him <a
-                href="https://www.codementor.io/foxted#/review">here</a>.</p>
+    <p>
+        <a href="https://www.codementor.io/foxted">Val</a>,
+        my mentor, for changing my life. You can read my reviews for him
+        <a href="https://www.codementor.io/foxted#/review">here.</a>
+        And you can read our Codementor success story <a href="https://www.codementor.io/success-stories/codementor-helps-beginner-gain-confidence" class="alert-link">here.</a>
+    </p>
 
     <p><a href="https://www.codementor.io/">Codementor</a>, for providing the circumstances for my life to be changed.</p>
 
