@@ -14,7 +14,7 @@
 <div id="privacy-policy" class="main">
 
     <h1>Privacy Policy</h1>
-    <p>Last modified: 17/10/2015</p>
+    <p>Last modified: 31/03/2016</p>
 
     I respect your privacy and really want you to be comfortable using my creations. :)
 
@@ -71,7 +71,11 @@
     <p>I don't use SSL. I may use it in the future. Please let me know if this is a high priority for you.</p>
 
     <h1>Cookies</h1>
-    <p>My apps may use cookies. You can disable them in your browser settings, but doing so may cause negative effects, such as the 'remember me' feature on the login pages not working.</p>
+    <p>My sites use cookies for things such as handling sessions and authentication. CloudFlare uses a cookie which can be read about
+        <a href="https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-CloudFlare-cfduid-cookie-do-">here.</a> You can disable cookies in your browser settings, but doing so may cause negative effects, such as the 'remember me' feature on the login pages not working.</p>
+
+    <h1>Google Analytics</h1>
+    <p>My sites use <a href="https://analytics.google.com">Google Analytics,</a> which tracks all sorts of things such as how many visits my sites receive, how long visitors stay on a page, what links are clicked when visitors arrive on my pages, search terms that led to page visits, etc.</p>
 
     <h1>Access and Correction</h1>
     <p>If you find that any information I hold about you is incorrect, please let me know.
