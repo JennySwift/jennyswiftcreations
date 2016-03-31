@@ -7,3 +7,5 @@
         <a href="/credits">Credits</a>
     </li>
 </footer>
+
+@include('templates.analytics-tracking')
