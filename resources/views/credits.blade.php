@@ -39,7 +39,9 @@
     <ul>
         <li><a href="http://laravel.com/">Laravel</a></li>
         <li><a href="http://vuejs.org/">Vue.js</a></li>
+        <li><a href="https://git-scm.com/">Git</a></li>
         <li><a href="https://www.npmjs.com/">npm</a></li>
+        <li><a href="http://sass-lang.com/">Sass</a></li>
         <li><a href="http://getbootstrap.com/">Twitter Bootstrap</a></li>
         <li><a href="http://underscorejs.org/">Underscore.js</a></li>
         <li><a href="https://lodash.com/">Lodash</a></li>
