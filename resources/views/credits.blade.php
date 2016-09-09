@@ -35,15 +35,20 @@
 
     <p><a href="https://www.codementor.io/nihantanu">Nish</a>, for the support and friendship.</p>
 
-    <p>The following libraries/frameworks:</p>
+    <p>The following technologies:</p>
     <ul>
         <li><a href="http://laravel.com/">Laravel</a></li>
-        <li><a href="https://angularjs.org/">AngularJS</a></li>
-        <li><a href="http://jquery.com/">jQuery</a></li>
+        <li><a href="http://vuejs.org/">Vue.js</a></li>
+        <li><a href="https://www.npmjs.com/">npm</a></li>
         <li><a href="http://getbootstrap.com/">Twitter Bootstrap</a></li>
-        <li><a href="http://datejs.com/">Datejs</a></li>
+        <li><a href="http://underscorejs.org/">Underscore.js</a></li>
+        <li><a href="https://lodash.com/">Lodash</a></li>
+        <li><a href="http://jquery.com/">jQuery</a></li>
+        <li><a href="https://daneden.github.io/animate.css/">Animate.css</a></li>
+        <li><a href="https://sugarjs.com/">Sugar</a></li>
         <li><a href="http://momentjs.com/">Moment.js</a></li>
         <li><a href="http://fontawesome.io">Font Awesome by Dave Gandy</a></li>
+        <li>And so many more...</li>
     </ul>
 
     <p>God, for bringing the joy of coding into my life.</p>
