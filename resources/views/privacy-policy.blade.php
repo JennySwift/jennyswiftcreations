@@ -84,6 +84,8 @@
     <p>If you have any complaints or feel that there has been a breach of the <a href="http://www.oaic.gov.au/images/documents/privacy/privacy-resources/privacy-fact-sheets/privacy-fact-sheet-17-australian-privacy-principles_2.pdf">Australian Privacy Principles</a>, or a registered APP code, you can contact me at <a href="mailto:jennyswiftcreations@gmail.com">jennyswiftcreations@gmail.com</a>. You will likely hear back from me within a few days.</p>
     <p>If you are not satisfied with the process of making a complaint to me, you may make a complaint to the Information Commissioner on the details below:<br />Office of the Australian Information Commissioner<br />GPO Box 5218 Sydney NSW 2001 <br />Email: <a href="mailto:enquiries@oaic.gov.au">enquiries@oaic.gov.au</a> <br />Telephone: 1300 363 992 <br />Fax: 02 9284 9666</p>
 
+    <h1>Demo Versions</h1>
+    <p>Please be aware that for the demo versions of my apps, other people who use the demo may see the data you enter, although the data does get reset regularly.</p>
 </div>
 
 @include('templates.footer')
