@@ -18,6 +18,22 @@
     </div>
 
     <div class="app-container">
+        <h1>Homeschooling App</h1>
+
+        <div class="info-container">
+            <p>An app for homeschools. It has a really cool feature I like to call the 'robot.' :) It responds to commands and provides an easy way to navigate the app, for example, by going to John's classes in response to 'j c.'</p>
+        </div>
+
+        <div class="btn-container">
+            <a class="btn btn-success" href="http://demo.homeschooling.jennyswiftcreations.com/">Demo</a>
+        </div>
+
+        <div class="img-container">
+            <img src="img/homeschooling.png" alt=""/>
+        </div>
+    </div>
+
+    <div class="app-container">
         <h1>Lists App</h1>
 
         <div class="info-container">
