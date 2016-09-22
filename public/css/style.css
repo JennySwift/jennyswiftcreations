@@ -5796,6 +5796,12 @@ p {
   .btn-success:hover {
     opacity: 1; }
 
+.alert-success {
+  background: #FF5F6D;
+  color: white; }
+  .alert-success .alert-link {
+    color: #ffcfd3; }
+
 .pointer {
   cursor: pointer; }
 
@@ -6029,12 +6035,6 @@ p {
   #reviews a {
     color: #FFABB3; }
 
-.codementor-success-story .alert-success {
-  background: #FF5F6D;
-  color: white; }
-  .codementor-success-story .alert-success a {
-    color: #ffcfd3; }
-
 #looking-for-work {
   color: #5cb85c; }
 
@@ -6093,7 +6093,7 @@ p {
   color: #FF5F6D; }
   #contact-me .content {
     margin-top: 50px;
-    font-size: 18px; }
+    font-size: 17px; }
     #contact-me .content .fa-at {
       font-size: 17px; }
 

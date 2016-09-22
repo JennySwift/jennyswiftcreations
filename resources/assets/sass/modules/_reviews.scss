@@ -13,14 +13,3 @@
         color: $lightPink;
     }
 }
-
-.codementor-success-story {
-    .alert-success {
-        background: $base1;
-        color: white;
-        a {
-            color: lighten($lightPink,7%);
-        }
-    }
-
-}

@@ -1,5 +1,5 @@
 <div class="multi-app-container">
-
+    <p class="header">Hi and thanks for visiting! :) This site and my apps are still in progress, but feel free to have a look around and try out my demos!</p>
     <div class="app-container">
         <h1>Budget App</h1>
 

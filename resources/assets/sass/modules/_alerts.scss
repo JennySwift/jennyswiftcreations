@@ -1,0 +1,7 @@
+.alert-success {
+    background: $base1;
+    color: white;
+    .alert-link {
+        color: lighten($lightPink,7%);
+    }
+}
