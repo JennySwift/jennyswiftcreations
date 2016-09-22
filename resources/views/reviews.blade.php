@@ -13,14 +13,16 @@
 
 	<div class="main">
 
-        <p class="header">Hi and thanks for visiting! :) This site and my apps are still in progress, but feel free to have a look around and try out my demos!</p>
+        <div class="codementor-success-story">
+            <p class="alert alert-success">I am featured in the
+                <a href="https://www.codementor.io/success-stories" class="alert-link">Codementor success stories.</a>
+                :) Click
+                <a href="https://www.codementor.io/success-stories/codementor-helps-beginner-gain-confidence" class="alert-link">here</a>
+                to view my story.
+            </p>
+        </div>
 
-        {{--<div class="looking-for-work">--}}
-            {{--<p class="alert alert-success">I am looking for remote work. If you are interested, I'd love to hear from you. :)</p>--}}
-        {{--</div>--}}
-
-        {{--<h2 id="looking-for-work"></h2>--}}
-        @include('templates.apps')
+        @include('templates.reviews')
 
 	</div>
 	

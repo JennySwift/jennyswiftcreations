@@ -20,6 +20,11 @@ Route::get('/privacy-policy', ['as' => 'privacy-policy', function()
 	return view('privacy-policy');
 }]);
 
+Route::get('/reviews', function()
+{
+    return view('reviews');
+});
+
 Route::get('/credits', function()
 {
     return view('credits');

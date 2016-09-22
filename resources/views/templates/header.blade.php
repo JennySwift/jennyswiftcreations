@@ -2,11 +2,15 @@
 <ul id="navbar" style="z-index:1000">
 
     <li>
-        <a href="/" class="fa fa-home"></a>
+        <a href="/">Creations</a>
+    </li>
+
+    <li>
+        <a href="/reviews">Reviews</a>
     </li>
     
     <li>
-        <a href="/contact">Contact/connect</a>
+        <a href="/contact">Contact/Connect</a>
     </li>
 
         {{--<li>--}}
