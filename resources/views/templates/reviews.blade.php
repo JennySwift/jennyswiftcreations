@@ -28,7 +28,7 @@
         <p>Sincerely,</p>
 
         <p>Valentin Prugnaud
-            <br><a href="http://codementor.io/foxted">http://codementor.io/foxted</a>
+            <br><a target="_blank" href="http://codementor.io/foxted">http://codementor.io/foxted</a>
             <br/><a href="mailto:valentin@foxted.com">valentin<i class="fa fa-at"></i>foxted.com</a>
         </p>
     </div>
@@ -37,7 +37,7 @@
         <p>I was mentor of Jenny and worked with her almost 6 month.Jenny is a quick learner and she has very deep understanding of Laravel and UI stack framework. Along with her strong technical understanding of how things works, she always eager to learn new technology and learn things by doing. She truly cares about helping other, very patient and have great team spirit. I would highly recommend to jenny to be on team If you are looking for full stack developer.</p>
 
         <p>Nishant Kumar
-            <br><a href="https://www.codementor.io/nihantanu">https://www.codementor.io/nihantanu</a>
+            <br><a target="_blank" href="https://www.codementor.io/nihantanu">https://www.codementor.io/nihantanu</a>
         </p>
     </div>
 
@@ -46,7 +46,7 @@
 
         <p>Christian Kramp
             <br/>CEO & Product Manager at Little Rock Online
-            <br/><a href="https://www.linkedin.com/in/krampchristian">https://www.linkedin.com/in/krampchristian</a>
+            <br/><a target="_blank" href="https://www.linkedin.com/in/krampchristian">https://www.linkedin.com/in/krampchristian</a>
         </p>
     </div>
 
