@@ -41,7 +41,9 @@ body {
 
 a {
   text-decoration: none;
-  color: #337ab7; }
+  color: #FF5F6D; }
+  a:hover {
+    color: #ff2c3e; }
 
 p {
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -336,7 +338,11 @@ p {
         width: 100px; }
 
 #contact-me {
-  width: 800px; }
+  width: 800px;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: #777;
+  font-size: 14px;
+  color: #FF5F6D; }
   #contact-me .content {
     margin-top: 50px;
     font-size: 18px; }
