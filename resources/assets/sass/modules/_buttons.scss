@@ -1,0 +1,8 @@
+.btn-success {
+    @include navBackground;
+    border: $pink;
+    opacity: .9;
+    &:hover {
+        opacity: 1;
+    }
+}

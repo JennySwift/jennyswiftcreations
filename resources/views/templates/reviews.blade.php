@@ -1,4 +1,3 @@
-<h1>Reviews</h1>
 <div id="reviews">
 
     <div class="review">
@@ -47,7 +46,6 @@
 
         <p>Christian Kramp
             <br/>CEO & Product Manager at Little Rock Online
-            <br/><a href="http://kramp.vinidra.com/">http://kramp.vinidra.com/</a>
             <br/><a href="https://www.linkedin.com/in/krampchristian">https://www.linkedin.com/in/krampchristian</a>
         </p>
     </div>

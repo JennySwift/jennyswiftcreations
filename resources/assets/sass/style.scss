@@ -1,6 +1,11 @@
 
 
 @import "colors";
+
+$brand-success: $base1;
+//$alert-success-bg: $base1;
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
 @import "variables";
 @import "mixins";
 @import 'base';
