@@ -10,7 +10,7 @@
     }
     a {
         //color: lighten($base1, 20%);
-        color: #FFABB3;
+        color: $lightPink;
     }
 }
 
@@ -19,7 +19,7 @@
         background: $base1;
         color: white;
         a {
-            color: lighten(#FFABB3,7%);
+            color: lighten($lightPink,7%);
         }
     }
 
