@@ -29,7 +29,6 @@
 
         <p>Valentin Prugnaud
             <br><a target="_blank" href="http://codementor.io/foxted">http://codementor.io/foxted</a>
-            <br/><a href="mailto:valentin@foxted.com">valentin<i class="fa fa-at"></i>foxted.com</a>
         </p>
     </div>
 
