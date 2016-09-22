@@ -12,8 +12,6 @@
 @include('templates.header')
 
 <div class="main" id="credits">
-    <h1>Credits</h1>
-    
     <p><a href="https://teamtreehouse.com">Team Treehouse</a>. My first experience of learning to code was with their free trial. The term 'coding' was still new to me and if it wasn't for them I may not have begun the wonderful journey of coding.</p>
 
     <p><a href="https://www.codeschool.com/">Code School</a> and <a href="https://laracasts.com/">Laracasts</a>, where I have also learned to code.</p>

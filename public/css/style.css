@@ -6012,6 +6012,10 @@ p {
   width: 715px; }
   #credits h1 {
     text-align: center; }
+  #credits li {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #777;
+    font-size: 14px; }
 
 #reviews {
   width: 600px;
