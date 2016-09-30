@@ -50,6 +50,22 @@
     </div>
 
     <div class="app-container">
+        <h1>Time Tracking App</h1>
+
+        <div class="info-container">
+            {{--<p></p>--}}
+        </div>
+
+        <div class="btn-container">
+            <a class="btn btn-success" href="http://demo.time.jennyswiftcreations.com">Demo</a>
+        </div>
+
+        <div class="img-container">
+            <img src="img/time.png" alt=""/>
+        </div>
+    </div>
+
+    <div class="app-container">
         <h1>Dental App</h1>
 
         <div class="info-container">
