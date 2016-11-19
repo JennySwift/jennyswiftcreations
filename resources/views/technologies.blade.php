@@ -3,20 +3,18 @@
 <head>
 	<meta charset="UTF-8">
 	<title>jennyswiftcreations</title>
-    <link rel="stylesheet" href="tools/bootstrap.min.css">
-    <link rel="stylesheet" href="tools/font-awesome.min.css">
-	<link rel="stylesheet" href="css/style.css">
+	@include('templates.head-links')
 </head>
 <body>
-    <navbar></navbar>
+<navbar></navbar>
 
-	<div id="contact-me" class="main">
+<div class="main">
 
-        <h1>Technologies</h1>
-        
-	</div>
-	
-	@include('templates.footer')
-		
+	<h1>Technologies</h1>
+
+</div>
+
+@include('templates.footer')
+
 </body>
 </html>

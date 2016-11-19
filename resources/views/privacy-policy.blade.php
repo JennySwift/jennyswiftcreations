@@ -4,9 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>jennyswiftcreations</title>
-    <link rel="stylesheet" href="tools/bootstrap.min.css">
-    <link rel="stylesheet" href="tools/font-awesome.min.css">
-    <link rel="stylesheet" href="css/style.css">
+    @include('templates.head-links')
 </head>
 <body>
     <navbar></navbar>
