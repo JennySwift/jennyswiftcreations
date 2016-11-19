@@ -19,6 +19,9 @@
                 <li>
                     <a href="/technologies">Technologies</a>
                 </li>
+                <li>
+                    <a href="/experience">Background/Experience</a>
+                </li>
             </ul>
         </li>
     </ul>

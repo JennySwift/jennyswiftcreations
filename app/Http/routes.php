@@ -40,6 +40,11 @@ Route::get('/technologies', function()
     return view('technologies');
 });
 
+Route::get('/experience', function()
+{
+    return view('experience');
+});
+
 Route::controllers([
 	'auth' => 'Auth\AuthController',
 	'password' => 'Auth\PasswordController',
