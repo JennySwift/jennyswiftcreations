@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-@include('templates.header')
+    <navbar></navbar>
 
 <div id="privacy-policy" class="main">
 

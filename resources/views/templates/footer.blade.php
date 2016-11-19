@@ -9,3 +9,5 @@
 </footer>
 
 @include('templates.analytics-tracking')
+
+<script type="text/javascript" src="/build/js/bundle.js"></script>

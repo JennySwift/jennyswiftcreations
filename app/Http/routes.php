@@ -35,6 +35,11 @@ Route::get('/contact', function()
     return view('contact');
 });
 
+Route::get('/technologies', function()
+{
+    return view('technologies');
+});
+
 Route::controllers([
 	'auth' => 'Auth\AuthController',
 	'password' => 'Auth\PasswordController',

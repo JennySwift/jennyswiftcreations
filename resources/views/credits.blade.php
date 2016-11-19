@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-@include('templates.header')
+    <navbar></navbar>
 
 <div class="main" id="credits">
     <p><a href="https://teamtreehouse.com">Team Treehouse</a>. My first experience of learning to code was with their free trial. The term 'coding' was still new to me and if it wasn't for them I may not have begun the wonderful journey of coding.</p>
