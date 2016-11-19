@@ -5771,6 +5771,9 @@ body {
       -ms-flex-align: center;
       align-items: center; }
 
+h1 {
+  color: #FFC371; }
+
 a {
   text-decoration: none;
   color: #FF5F6D; }
@@ -6060,8 +6063,6 @@ p {
   flex-direction: column;
   -ms-flex-align: center;
   align-items: center; }
-  .multi-app-container h1 {
-    color: #FFC371; }
   .multi-app-container .app-container {
     width: 100%; }
     .multi-app-container .app-container .info-container p {
