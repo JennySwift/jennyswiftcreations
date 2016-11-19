@@ -8,7 +8,7 @@
 <body>
 <navbar></navbar>
 
-<div class="main">
+<div id="experience" class="main">
 
 	<h1>Background/Experience</h1>
 

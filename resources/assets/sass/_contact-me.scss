@@ -1,6 +1,5 @@
 #contact-me {
     width: 800px;
-    @include baseFont;
     color: $base1;
     .content {
         margin-top: 50px;
@@ -8,5 +7,9 @@
         .fa-at {
             font-size: 17px;
         }
+    }
+    h1 {
+        margin: 0;
+        padding: 10px 0;
     }
 }

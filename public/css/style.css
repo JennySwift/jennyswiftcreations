@@ -6088,14 +6088,25 @@ p {
 
 #contact-me {
   width: 800px;
-  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-  color: #777;
-  font-size: 14px;
   color: #FF5F6D; }
   #contact-me .content {
     margin-top: 50px;
     font-size: 17px; }
     #contact-me .content .fa-at {
       font-size: 17px; }
+  #contact-me h1 {
+    margin: 0;
+    padding: 10px 0; }
+
+#technologies li {
+  color: #FF5F6D; }
+
+#technologies h1 {
+  margin: 0;
+  padding: 10px 0; }
+
+#experience h1 {
+  margin: 0;
+  padding: 10px 0; }
 
 /*# sourceMappingURL=style.css.map */

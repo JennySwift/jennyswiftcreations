@@ -8,7 +8,7 @@
 <body>
 <navbar></navbar>
 
-<div class="main">
+<div id="technologies" class="main">
 
 	<h1>Technologies</h1>
 	
