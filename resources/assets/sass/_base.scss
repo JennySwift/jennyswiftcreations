@@ -15,9 +15,8 @@ body {
     color: #777;
     @include characterFont;
     .main {
-        padding-bottom: 60px;
         min-height: 100%;
-        margin: auto;
+        padding: 0 20px 60px 20px;
     }
     footer {
         display: flex;

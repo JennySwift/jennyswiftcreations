@@ -5742,9 +5742,8 @@ body {
   font-family: "Annie Use Your Telescope";
   font-size: 17px; }
   body .main {
-    padding-bottom: 60px;
     min-height: 100%;
-    margin: auto; }
+    padding: 0 20px 60px 20px; }
   body footer {
     display: -ms-flexbox;
     display: flex;
