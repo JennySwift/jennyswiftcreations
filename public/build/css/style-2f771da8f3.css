@@ -6133,4 +6133,8 @@ p {
 #about .funny-img {
   width: 300px; }
 
+#about .flex {
+  display: -ms-flexbox;
+  display: flex; }
+
 /*# sourceMappingURL=style.css.map */

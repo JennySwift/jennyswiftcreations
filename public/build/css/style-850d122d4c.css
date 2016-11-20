@@ -5787,9 +5787,6 @@ p {
   margin-left: auto;
   margin-right: auto; }
 
-ul {
-  margin-bottom: 0; }
-
 .img-container {
   text-align: center; }
   .img-container img {
@@ -6135,5 +6132,11 @@ ul {
 
 #about .funny-img {
   width: 300px; }
+
+#about .float-left {
+  float: left; }
+
+#about .float-right {
+  float: right; }
 
 /*# sourceMappingURL=style.css.map */

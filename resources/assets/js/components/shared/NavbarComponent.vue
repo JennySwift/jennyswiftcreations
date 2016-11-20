@@ -20,7 +20,7 @@
                     <a href="/about">About Me</a>
                 </li>
                 <li>
-                    <a href="/technologies">Technologies</a>
+                    <a href="/technologies">Technologies/Skills</a>
                 </li>
                 <li>
                     <a href="/experience">Background/Experience</a>

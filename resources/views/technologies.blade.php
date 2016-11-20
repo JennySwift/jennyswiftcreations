@@ -10,7 +10,7 @@
 
 <div id="technologies" class="main">
 
-	<h1>Technologies</h1>
+	<h1>Technologies/Skills</h1>
 	
 	<ul>
 		<li>HTML5</li>
@@ -46,6 +46,7 @@
 		<li>Mocha</li>
 		<li>Chai</li>
 		<li>PHPUnit</li>
+		<li>Object-Oriented Programming</li>
 	</ul>
 
 </div>
