@@ -5787,6 +5787,15 @@ p {
   margin-left: auto;
   margin-right: auto; }
 
+.img-container {
+  text-align: center; }
+  .img-container img {
+    padding: 25px;
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 5px #777;
+    border-radius: 4px;
+    width: 600px; }
+
 #login-form {
   margin-top: 130px; }
 
@@ -6074,14 +6083,6 @@ p {
     .multi-app-container .app-container .info-container p {
       width: 600px;
       margin: auto; }
-    .multi-app-container .app-container .img-container {
-      text-align: center; }
-      .multi-app-container .app-container .img-container img {
-        padding: 25px;
-        margin-bottom: 20px;
-        box-shadow: 3px 3px 5px #777;
-        border-radius: 4px;
-        width: 600px; }
     .multi-app-container .app-container .btn-container {
       display: -ms-flexbox;
       display: flex;

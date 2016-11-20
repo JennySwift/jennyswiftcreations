@@ -53,3 +53,14 @@ p {
     margin-right: auto;
 }
 
+.img-container {
+    text-align: center;
+    img {
+        padding: 25px;
+        margin-bottom: 20px;
+        box-shadow: 3px 3px 5px #777;
+        border-radius: 4px;
+        width: 600px;
+    }
+}
+

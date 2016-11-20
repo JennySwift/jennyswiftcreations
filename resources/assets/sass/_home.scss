@@ -36,24 +36,6 @@
                 margin: auto;
             }
         }
-        .img-container {
-//            display: flex;
-//            justify-content: center;
-            text-align: center;
-            img {
-//                max-width: 100%;
-                padding: 25px;
-                margin-bottom: 20px;
-                box-shadow: 3px 3px 5px #777;
-                border-radius: 4px;
-                width: 600px;
-//                transition: all, 1s, ease;
-//                &:hover {
-//                    width: 800px;
-//                }
-            }
-        }
-
         .btn-container {
             display: flex;
             justify-content: center;
