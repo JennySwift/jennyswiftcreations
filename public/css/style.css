@@ -6099,7 +6099,8 @@ ul {
     width: 100%; }
     .multi-app-container .app-container .info-container p {
       width: 600px;
-      margin: auto; }
+      margin-left: auto;
+      margin-right: auto; }
     .multi-app-container .app-container .btn-container {
       display: -ms-flexbox;
       display: flex;

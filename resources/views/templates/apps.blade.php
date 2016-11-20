@@ -4,7 +4,10 @@
         <h1>Budget App</h1>
 
         <div class="info-container">
-            <p>This was my first main app. Originally made for my brother, with the goal of providing a useful way to budget when income is unpredictable.</p>
+            <p>My first app. Made for my brother. Soon after I began coding, when I didn't know much at all, he wanted something to help him budget when income is unpredictable.</p>
+            <p>Building this app was one of the main ways I learned to code. It was challenging, probably because I had to learn everything as I was going, and doing everything for the first time. (My other projects have often felt pretty easy compared to this one.) But not only that, we didn't really know what we wanted it to do-we've spent so much time trying to figure that out-and we didn't know much about budgeting. :)</p>
+            <p>"Budgeting for people who don't know how to budget" might be a good way to describe this app. ;)</p>
+            <p>But we've been using it for quite a while now, and I reckon the basics work well, and the filter is very powerful. There could still be a long way to go till my brother is really happy with it, though.</p>
         </div>
 
         <div class="btn-container">
@@ -37,7 +40,8 @@
         <h1>Lists App</h1>
 
         <div class="info-container">
-            <p>A tree-style app for managing and prioritizing tasks. I use it to build my apps. :)</p>
+            <p>I've tried a bunch of todo apps over the years, but haven't been satisfied. Workflowy was my favourite and I did love it, but I still wanted it to do more. I didn't really know what it was I wanted, so I started by building something with much the same functionality, and then tried adding different things from there.</p>
+            <p>I don't yet consider it a finished product, but it is now my favourite todo app I've tried. It has helped me feel much more organised. I have used this app to build this app. :)</p>
         </div>
 
         <div class="btn-container">
@@ -53,7 +57,7 @@
         <h1>Time Tracking App</h1>
 
         <div class="info-container">
-            {{--<p></p>--}}
+            <p>I was using Toggl but wasn't really satisfied. I think there's still a lot more I could do to this app to improve it, but I love having the flexibility to add features as I like, instead of being restricted to using apps that aren't mine and therefore I can't build upon.</p>
         </div>
 
         <div class="btn-container">
