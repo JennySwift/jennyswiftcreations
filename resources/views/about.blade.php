@@ -88,6 +88,15 @@
 		<img src="/img/party.JPG">
 	</div>
 
+	<div class="img-container">
+		<img src="/img/chip-carving.JPG">
+	</div>
+
+	<div class="split-img-container">
+		<img src="/img/kookaburra.JPG">
+		<img src="/img/grasshopper.JPG">
+	</div>
+
 	<p>As I felt the battle was subsiding, I actually missed it. I love a challenge, and it felt a bit like my
 		‘opponent’ had walked off the court. I am now into calisthenics (bodyweight strength training), and am inspired
 		by the ‘impossible’ cool things I see the veterans doing.</p>

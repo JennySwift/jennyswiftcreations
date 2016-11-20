@@ -64,3 +64,17 @@ p {
     }
 }
 
+.split-img-container {
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    padding: 25px;
+    margin: 0 auto 20px auto;
+    box-shadow: 3px 3px 5px #777;
+    border-radius: 4px;
+    img {
+        width: 50%;
+        height: 310px;
+    }
+}
+

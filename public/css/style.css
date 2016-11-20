@@ -5796,6 +5796,20 @@ p {
     border-radius: 4px;
     width: 600px; }
 
+.split-img-container {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 600px;
+  padding: 25px;
+  margin: 0 auto 20px auto;
+  box-shadow: 3px 3px 5px #777;
+  border-radius: 4px; }
+  .split-img-container img {
+    width: 50%;
+    height: 310px; }
+
 #login-form {
   margin-top: 130px; }
 
