@@ -42,6 +42,14 @@
 		‘schedule.’ I achieved this at 15, winning a tough three set final against a girl I’d never beaten before. I was
 		ecstatic.</p>
 
+	<div class="img-container">
+		<img src="/img/bendigo-2.jpg">
+	</div>
+
+	<div class="img-container">
+		<img src="/img/bendigo.jpg">
+	</div>
+
 	<p>I then began to travel the country on my own to play, and at 17, the world. I won a couple of international
 		titles, and reached a world ranking of 135 for girls under 19.</p>
 
