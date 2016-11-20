@@ -6112,8 +6112,9 @@ ul {
         width: 100px; }
 
 #contact-me {
-  width: 800px;
   color: #FF5F6D; }
+  #contact-me a {
+    font-size: 19px; }
   #contact-me .content {
     margin-top: 50px;
     font-size: 17px; }
