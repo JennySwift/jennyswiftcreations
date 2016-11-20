@@ -8,6 +8,15 @@
     padding: 0;
     margin: 0;
     @include navBackground;
+    .dropdown-menu {
+        a {
+            color: $base2;
+            &:hover {
+                //color: white;
+                background: $base1;
+            }
+        }
+    }
     > li {
         display: flex;
         align-items: center;

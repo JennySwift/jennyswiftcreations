@@ -8,7 +8,7 @@
 <body>
 <navbar></navbar>
 
-<div id="experience" class="main">
+<div id="about" class="main">
 
 	<h1>About Me</h1>
 
