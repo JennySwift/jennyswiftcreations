@@ -19,6 +19,10 @@
 		I entered some tournaments and won, so I entered some more, and kept winning. Naturally, I liked winning, and it
 		fed my desire to improve.</p>
 
+	<div class="img-container">
+		<img src="/img/funny.jpg" class="funny-img">
+	</div>
+
 	<p>At 12, I became state champion on my birthday, and later, national champion. I still have the tennis balls, the
 		string that was in my racquet during the final, and…my fingernails. Sentimental stuff. :)</p>
 
