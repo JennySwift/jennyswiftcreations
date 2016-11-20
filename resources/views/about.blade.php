@@ -32,7 +32,7 @@
 		on and winning the tournament.</p>
 
 	<p>My fondest tennis memories are those with my mum and dad. My dad was my coach and we spent many, many hours on
-		the tennis court together. Although unqualified as a tennis coach, he made an awesome one-smart and dedicated.
+		the tennis court together. Although unqualified as a tennis coach, he made an awesome one because he was smart and dedicated.
 		When he was able to take time off work to come with me to tournaments, I played better. I don’t think I would
 		have had anywhere near the success I did if it wasn’t for my dad. And my mum was an awesome help, too. We had
 		fun times, driving off to some country tournament together, having a bit of an adventure. We’d take our ball
@@ -53,34 +53,34 @@
 	<p>I then began to travel the country on my own to play, and at 17, the world. I won a couple of international
 		titles, and reached a world ranking of 135 for girls under 19.</p>
 
-	<p>Over the years, there were times I felt like quitting, where I was sick of hitting tennis balls again, and
-		again, and again, or I wondered what else there was to life that I was missing out on, since tennis was my life,
-		but through talking it out with my parents, they would help me regain my motivation, and so I kept going.</p>
-
 	<p>What started out as ‘homeschooling’ would often be ‘awayfromhomeschooling.’ I finished a few years ‘late,’ but
 		got there eventually. My favourite subjects were French and Shorthand-I had a love for learning languages.</p>
+
+	<p>Over the years, there were times I felt like quitting tennis, where I was sick of hitting tennis balls again, and
+		again, and again, or I wondered what else there was to life that I was missing out on, since tennis was my life.
+		But through talking it out with my parents, they would help me regain my motivation, and so I kept going.</p>
 
 	<p>It was a very lonely lifestyle, being away from home so much, and on my own. One time when I was really
 		struggling with homesickness, it was my mum who was asking the question if I really wanted to keep going. I
 		loved the tennis too much to quit-it felt like a relationship to me-by making it through the hard times
 		previously, we’d become so close-I was too attached to say, ‘Goodbye.'</p>
 
-	<p>By 18, the competition seemed to get harder. Somehow, I made it to the final. I think I surprised myself and
+	<p>By 18, the competition seemed to get harder. Somehow, I made it to the final of the nationals. I think I surprised myself and
 		probably others. I was playing the best tennis of my life, and I had to. I’m pretty sure I wouldn’t have made it
-		that far without my dad there. The final was a memorable tragedy, well, at least from my point of view. I was up
+		that far without my dad there. The final was a memorable tragedy-well, at least from my point of view. I was up
 		a set and 2-0, and all of a sudden, out of the blue, my game lost its oomph. I lost and it was quite a mystery
 		what happened to me.</p>
 
 	<p>Looking back, I think it was a sign of what was to come. Others won with power. For me to win, it took
 		endurance, running down my opponents’ big shots all the time, until they’d lose patience. It took more of a toll
-		on my body. Apparently, my body wouldn’t be able to keep that up year after year.</p>
+		on my body. Apparently, my body wouldn’t be able to keep that up, year after year.</p>
 
 	<p>I got a lot of injuries over the years. One of them was just after winning a tournament on my 19th birthday, and
 		I was playing the best tennis of my life. I wanted to turn pro, and I knew I was running out of time. And so,
 		being setback from yet another injury, after all my hard work, broke my heart. I made mistakes during that time
 		away from tennis, and turned into an emotional mess. Eventually, I recovered from my injury and started playing
 		again. I won quite a few more titles, but feeling the pressure of time running out for me to ‘make it,' and not
-		wanting to think myself a failure, I pushed myself really, really hard, but apparently way too hard. I think
+		wanting to think myself a failure, I pushed myself really, really hard, but apparently, way too hard. I think
 		that, as well as other things (I don’t think I’ll be eating chicken ever again.), led to me nearly losing my
 		life, or so it felt.</p>
 
@@ -89,11 +89,10 @@
 		tennis player, really helped me get through those years. I was grateful to be with my family again, and grateful
 		for their support.</p>
 
-	<p>In an attempt to get well, I didn’t eat for nearly four weeks, and switched to a diet of only raw plant foods.
-		I’ve now been eating this way for over 7 years, although I experiment at times by cooking them.</p>
+	<p>In an attempt to get well, I didn’t eat for nearly four weeks, and switched to a diet of only plant foods. I’ve now been eating this way for over 7 years, and for most of that time, only raw. I’m not sure if that’s the best way to do it, but it seemed to work better for me during that time.</p>
 
 	<p>As I recovered, there was a lot of joy in being able to do simple things again. I took on new hobbies and
-		discovered I loved to create things. I got into fruit and veggie gardening, chip carving, sewing, ukulele, and
+		discovered I loved to create things. I got into fruit and veggie gardening, taught myself chip carving, sewing, and the ukulele, and
 		loved being in nature.</p>
 
 	<div class="img-container">
@@ -114,7 +113,7 @@
 		by the ‘impossible’ cool things I see the veterans doing.</p>
 
 	<p>As my health improved, but I still needed to be at home, I started searching for work that I could do from home.
-		It was then that I discovered coding. I did a two week free trial at Team Treehouse, which sparked an interest,
+		It was then that I discovered coding. I did a two-week free trial at Team Treehouse, which sparked an interest,
 		so I kept going. A few months later, my brother wished there was an app for budgeting with an unsteady income. I
 		took on the challenge, hardly knowing anything at the time. Building this app was pretty much how I learned to
 		code-seeing needs in my app, while taking courses to teach me how to meet those needs. Over time, a passion for
