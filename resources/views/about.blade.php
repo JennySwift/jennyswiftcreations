@@ -114,6 +114,22 @@
 		‘opponent’ had walked off the court. I am now into calisthenics (bodyweight strength training), and am inspired
 		by the ‘impossible’ cool things I see the veterans doing.</p>
 
+	<div class="img-container">
+		<video controls>
+			<source src="/movies/bridge.mp4" type="video/mp4" poster="">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+
+	<div class="img-container">
+		<video controls>
+			<source src="/movies/bridge-blooper.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+		</video>
+	</div>
+
+
+
 	<p>As my health improved, but I still needed to be at home, I started thinking about possibilities for work. I’d used Google Sketchup to build a model of the backyard, for designing a wedding present, and for calculating the floor space for a friend’s apartment. I quite enjoyed that. And I’d noticed, after a period of spending less time at the computer, that I missed learning online. And I loved playing Age of Empires-a strategy game. I wished I could have a job that took the same sort of skill, but was, well, useful.</p>
 
 	<p>I wasn’t sure if such a job existed, and so I was pretty thrilled to discovered coding. I did a two-week free trial at Team Treehouse, which sparked an interest, so I kept going. A few months later, my brother wished there was an app for budgeting with an unsteady income. I took on the challenge, hardly knowing anything at the time. Building this app was pretty much how I learned to code-seeing needs in my app, while taking courses to teach me how to meet those needs. Over time, a passion for coding grew in me and I knew I wanted to keep going.</p>
