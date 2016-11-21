@@ -44,6 +44,7 @@ a {
     &:hover {
         color: darken($base1, 10%);
     }
+    word-wrap: break-word;
 }
 
 p {
@@ -60,25 +61,26 @@ ul {
 .img-container {
     text-align: center;
     img {
-        padding: 25px;
-        margin-bottom: 20px;
-        box-shadow: 3px 3px 5px #777;
-        border-radius: 4px;
+        @include image;
         width: 600px;
+        &.half-width-img {
+            width: 300px;
+        }
     }
+}
+
+img, video {
+    max-width: 100%;
 }
 
 .split-img-container {
     display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
     justify-content: center;
-    width: 600px;
-    padding: 25px;
-    margin: 0 auto 20px auto;
-    box-shadow: 3px 3px 5px #777;
-    border-radius: 4px;
     img {
-        width: 50%;
-        height: 310px;
+        @include image;
+        width: 300px;
     }
 }
 

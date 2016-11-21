@@ -105,10 +105,24 @@
 		<img src="/img/chip-carving.JPG">
 	</div>
 
-	<div class="split-img-container">
-		<img src="/img/kookaburra.JPG">
-		<img src="/img/grasshopper.JPG">
+	<div class="img-container">
+		<img src="/img/kookaburra.JPG" class="half-width-img">
 	</div>
+
+	<div class="img-container">
+		<img src="/img/grasshopper2.JPG" class="half-width-img">
+	</div>
+
+	{{--<div class="img-container split-img-container">--}}
+		{{--<div class="img-container">--}}
+			{{--<img src="/img/kookaburra.JPG">--}}
+		{{--</div>--}}
+		{{--<div class="img-container">--}}
+			{{--<img src="/img/grasshopper.JPG">--}}
+			{{--<img src="/img/grasshopper2.JPG">--}}
+			{{--<img src="/img/kookaburra3.JPG">--}}
+		{{--</div>--}}
+	{{--</div>--}}
 
 	<p>As I felt the battle was subsiding, I actually missed it. I love a challenge, and it felt a bit like my
 		‘opponent’ had walked off the court. I am now into calisthenics (bodyweight strength training), and am inspired
