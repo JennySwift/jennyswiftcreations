@@ -6086,6 +6086,13 @@ img, video {
 .header {
   text-align: center; }
 
+.welcome {
+  text-align: center; }
+  .welcome .emoticon {
+    width: 115px;
+    margin-top: -9px;
+    margin-bottom: 1px; }
+
 .codementor-success-story {
   display: -ms-flexbox;
   display: flex;
