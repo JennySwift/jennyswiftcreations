@@ -147,6 +147,7 @@
 			<source src="/movies/bridge-blooper.mp4" type="video/mp4">
 			Your browser does not support the video tag.
 		</video>
+		<p class="movie-description">Blooper fun. <img src="emoticons/rofl.png" class="emoticon"></p>
 	</div>
 
 

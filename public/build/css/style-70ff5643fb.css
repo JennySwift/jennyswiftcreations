@@ -5830,6 +5830,16 @@ img, video {
   .img-description .emoticon {
     width: 24px; }
 
+.movie-description {
+  color: #FF5F6D;
+  font-family: "Annie Use Your Telescope";
+  font-size: 17px;
+  width: 300px;
+  margin-top: 0;
+  font-size: 25px; }
+  .movie-description .emoticon {
+    width: 32px; }
+
 #login-form {
   margin-top: 130px; }
 

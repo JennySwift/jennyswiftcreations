@@ -95,3 +95,14 @@ img, video {
     }
 }
 
+.movie-description {
+    color: $base1;
+    @include characterFont;
+    width: 300px;
+    margin-top: 0;
+    font-size: 25px;
+    .emoticon {
+        width: 32px;
+    }
+}
+
