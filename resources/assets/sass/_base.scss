@@ -85,7 +85,7 @@ img, video {
 }
 
 .img-description {
-    color: $base1;
+    color: $base2;
     @include characterFont;
     width: 300px;
     margin-top: -15px;
@@ -96,7 +96,7 @@ img, video {
 }
 
 .movie-description {
-    color: $base1;
+    color: $base2;
     @include characterFont;
     width: 300px;
     margin-top: 0;
