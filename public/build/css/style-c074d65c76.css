@@ -5793,13 +5793,13 @@ ul {
 
 .img-container {
   text-align: center; }
-  .img-container img {
+  .img-container img:not(.emoticon) {
     padding: 25px;
     margin: 0 auto 20px auto;
     box-shadow: 3px 3px 5px #777;
     border-radius: 4px;
     width: 600px; }
-    .img-container img.half-width-img {
+    .img-container img:not(.emoticon).half-width-img {
       width: 300px; }
 
 img, video {
@@ -5819,6 +5819,16 @@ img, video {
     box-shadow: 3px 3px 5px #777;
     border-radius: 4px;
     width: 300px; }
+
+.img-description {
+  color: #FF5F6D;
+  font-family: "Annie Use Your Telescope";
+  font-size: 17px;
+  width: 300px;
+  margin-top: -15px;
+  font-size: 15px; }
+  .img-description .emoticon {
+    width: 24px; }
 
 #login-form {
   margin-top: 130px; }

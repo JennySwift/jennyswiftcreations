@@ -60,7 +60,7 @@ ul {
 
 .img-container {
     text-align: center;
-    img {
+    img:not(.emoticon) {
         @include image;
         width: 600px;
         &.half-width-img {
@@ -81,6 +81,17 @@ img, video {
     img {
         @include image;
         width: 300px;
+    }
+}
+
+.img-description {
+    color: $base1;
+    @include characterFont;
+    width: 300px;
+    margin-top: -15px;
+    font-size: 15px;
+    .emoticon {
+        width: 24px;
     }
 }
 

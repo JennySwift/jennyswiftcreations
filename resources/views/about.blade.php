@@ -21,6 +21,8 @@
 
 	<div class="img-container">
 		<img src="/img/funny.jpg" class="funny-img">
+		<p class="img-description">Someone once said you need to be eccentric in order to be a champion. They thought I had that going for me.
+			<img src="emoticons/silly.png" class="emoticon"></p>
 	</div>
 
 	<p>At 12, I became state champion on my birthday, and later, national champion. I still have the tennis balls, the
@@ -44,6 +46,7 @@
 
 	<div class="img-container">
 		<img src="/img/bendigo-2.jpg">
+		<p class="img-description">A very happy me, after winning the 16s nationals. Thanks to Rod Dickson for these two photos, and the many others over the years.</p>
 	</div>
 
 	<div class="img-container">
@@ -99,14 +102,18 @@
 
 	<div class="img-container">
 		<img src="/img/party.JPG">
+		<p class="img-description">I made the dress my mum is wearing here, as well as my paper outfit. We don't always dress like this.
+			<img src="emoticons/silly.png" class="emoticon"></p>
 	</div>
 
 	<div class="img-container">
 		<img src="/img/chip-carving.JPG">
+		<p class="img-description">I designed this with Google Sketchup, then carved it.</p>
 	</div>
 
 	<div class="img-container">
 		<img src="/img/kookaburra.JPG" class="half-width-img">
+		<p class="img-description">A lovely visitor in the backyard.</p>
 	</div>
 
 	<div class="img-container">
