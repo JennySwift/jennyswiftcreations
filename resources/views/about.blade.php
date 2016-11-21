@@ -91,9 +91,11 @@
 
 	<p>In an attempt to get well, I didn’t eat for nearly four weeks, and switched to a diet of only plant foods. I’ve now been eating this way for over 7 years, and for most of that time, only raw. I’m not sure if that’s the best way to do it, but it seemed to work better for me during that time.</p>
 
-	<p>As I recovered, there was a lot of joy in being able to do simple things again. I took on new hobbies and
-		discovered I loved to create things. I got into fruit and veggie gardening, taught myself chip carving, sewing, and the ukulele, and
-		loved being in nature.</p>
+	<p>The hard times I went through gave me a new joy and appreciation for things that are easy to take for granted.
+		Perhaps my favourite-being able to talk. After being unable to do so, and unsure if I would ever be able to
+		again, being able to talk again was so very, very, very precious.</p>
+
+	<p>As I recovered, I spent a lot of time online learning new hobbies-knitting, growing food (I love being in nature.), carving wood, sewing clothes, and playing the ukulele. I discovered I loved to create things. I eventually decided that moving a piece of yarn around in a repetitive motion wasn’t for me, but I think it took me a while to realize that because I was fascinated by the learning process and the creative possibilities.</p>
 
 	<div class="img-container">
 		<img src="/img/party.JPG">
@@ -112,12 +114,16 @@
 		‘opponent’ had walked off the court. I am now into calisthenics (bodyweight strength training), and am inspired
 		by the ‘impossible’ cool things I see the veterans doing.</p>
 
-	<p>As my health improved, but I still needed to be at home, I started searching for work that I could do from home.
-		It was then that I discovered coding. I did a two-week free trial at Team Treehouse, which sparked an interest,
-		so I kept going. A few months later, my brother wished there was an app for budgeting with an unsteady income. I
-		took on the challenge, hardly knowing anything at the time. Building this app was pretty much how I learned to
-		code-seeing needs in my app, while taking courses to teach me how to meet those needs. Over time, a passion for
-		coding grew in me and I knew I wanted to keep going.</p>
+	<p>As my health improved, but I still needed to be at home, I started thinking about possibilities for work. I’d used Google Sketchup to build a model of the backyard, for designing a wedding present, and for calculating the floor space for a friend’s apartment. I quite enjoyed that. And I’d noticed, after a period of spending less time at the computer, that I missed learning online. And I loved playing Age of Empires-a strategy game. I wished I could have a job that took the same sort of skill, but was, well, useful.</p>
+
+	<p>I wasn’t sure if such a job existed, and so I was pretty thrilled to discovered coding. I did a two-week free trial at Team Treehouse, which sparked an interest, so I kept going. A few months later, my brother wished there was an app for budgeting with an unsteady income. I took on the challenge, hardly knowing anything at the time. Building this app was pretty much how I learned to code-seeing needs in my app, while taking courses to teach me how to meet those needs. Over time, a passion for coding grew in me and I knew I wanted to keep going.</p>
+
+	{{--<p>As my health improved, but I still needed to be at home, I started searching for work that I could do from home.--}}
+		{{--It was then that I discovered coding. I did a two-week free trial at Team Treehouse, which sparked an interest,--}}
+		{{--so I kept going. A few months later, my brother wished there was an app for budgeting with an unsteady income. I--}}
+		{{--took on the challenge, hardly knowing anything at the time. Building this app was pretty much how I learned to--}}
+		{{--code-seeing needs in my app, while taking courses to teach me how to meet those needs. Over time, a passion for--}}
+		{{--coding grew in me and I knew I wanted to keep going.</p>--}}
 
 </div>
 
