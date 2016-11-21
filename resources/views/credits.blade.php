@@ -31,7 +31,7 @@
 
     <p><a href="https://www.codementor.io/nihantanu">Nish</a>, for the support and friendship.</p>
 
-    <p>The following technologies:</p>
+    <p>The following technologies/services:</p>
     <ul>
         <li><a href="http://laravel.com/">Laravel</a></li>
         <li><a href="http://vuejs.org/">Vue.js</a></li>
@@ -46,6 +46,7 @@
         <li><a href="https://sugarjs.com/">Sugar</a></li>
         <li><a href="http://momentjs.com/">Moment.js</a></li>
         <li><a href="http://fontawesome.io">Font Awesome by Dave Gandy</a></li>
+        <li><a href="http://www.smiley.com/emo">http://www.smiley.com/emo</a></li>
         <li>And so many more...</li>
     </ul>
 
