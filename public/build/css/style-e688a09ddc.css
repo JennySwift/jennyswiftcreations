@@ -6013,8 +6013,7 @@ img, video {
     -ms-flex-pack: center;
     justify-content: center;
     position: relative;
-    height: 31px;
-    min-width: 70px; }
+    height: 31px; }
     #navbar > li > a {
       color: white;
       text-decoration: none; }
