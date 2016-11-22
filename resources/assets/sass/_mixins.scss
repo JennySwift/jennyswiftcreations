@@ -34,3 +34,24 @@
     box-shadow: 3px 3px 5px #777;
     border-radius: 4px;
 }
+
+@mixin imageDescription {
+    color: $base2;
+    @include characterFont;
+    width: 600px;
+    margin: -8px auto 30px auto;
+    font-size: 15px;
+    .emoticon {
+        width: 24px;
+    }
+}
+
+@mixin movieDescription {
+    @include imageDescription;
+    width: 300px;
+    margin-top: 0;
+    font-size: 25px;
+    .emoticon {
+        width: 32px;
+    }
+}

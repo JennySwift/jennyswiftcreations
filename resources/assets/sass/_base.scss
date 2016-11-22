@@ -85,24 +85,17 @@ img, video {
 }
 
 .img-description {
-    color: $base2;
-    @include characterFont;
-    width: 300px;
-    margin-top: -15px;
-    font-size: 15px;
-    .emoticon {
-        width: 24px;
+    @include imageDescription;
+}
+
+.portrait {
+    .img-description {
+        @include imageDescription;
+        width: 300px;
     }
 }
 
 .movie-description {
-    color: $base2;
-    @include characterFont;
-    width: 300px;
-    margin-top: 0;
-    font-size: 25px;
-    .emoticon {
-        width: 32px;
-    }
+    @include movieDescription;
 }
 

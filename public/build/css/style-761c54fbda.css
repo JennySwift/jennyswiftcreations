@@ -5824,19 +5824,35 @@ img, video {
   color: #FFC371;
   font-family: "Annie Use Your Telescope";
   font-size: 17px;
-  width: 300px;
-  margin-top: -15px;
+  width: 600px;
+  margin: -8px auto 30px auto;
   font-size: 15px; }
   .img-description .emoticon {
+    width: 24px; }
+
+.portrait .img-description {
+  color: #FFC371;
+  font-family: "Annie Use Your Telescope";
+  font-size: 17px;
+  width: 600px;
+  margin: -8px auto 30px auto;
+  font-size: 15px;
+  width: 300px; }
+  .portrait .img-description .emoticon {
     width: 24px; }
 
 .movie-description {
   color: #FFC371;
   font-family: "Annie Use Your Telescope";
   font-size: 17px;
+  width: 600px;
+  margin: -8px auto 30px auto;
+  font-size: 15px;
   width: 300px;
   margin-top: 0;
   font-size: 25px; }
+  .movie-description .emoticon {
+    width: 24px; }
   .movie-description .emoticon {
     width: 32px; }
 

@@ -19,7 +19,7 @@
 		I entered some tournaments and won, so I entered some more, and kept winning. Naturally, I liked winning, and it
 		fed my desire to improve.</p>
 
-	<div class="img-container">
+	<div class="img-container portrait">
 		<img src="/img/funny.jpg" class="funny-img">
 		<p class="img-description">Someone once said you need to be eccentric in order to be a champion. They thought I had that going for me.
 			<img src="emoticons/silly.png" class="emoticon"></p>
@@ -33,9 +33,9 @@
 	<p>At 14, I was national champion again for my age group. Very fond memories there. I was little compared to my
 		opponents and I won with my head and my heart, not my strength. There were many times I looked down and out,
 		but, somehow, found a way to win. A point here or there could have made the difference between me losing early
-		on and winning the tournament.</p>
+		on, and winning the tournament. I didn't keep my fingernails for this one, though. ;)</p>
 
-	<p>My fondest tennis memories are those with my mum and dad. My dad was my coach and we spent many, many hours on
+	<p>My fondest tennis memories are those with my mum and dad. My dad was my coach, and we spent many, many hours on
 		the tennis court together. Although unqualified as a tennis coach, he made an awesome one because he was smart and dedicated.
 		When he was able to take time off work to come with me to tournaments, I played better. I don’t think I would
 		have had anywhere near the success I did if it wasn’t for my dad. And my mum was an awesome help, too. We had
@@ -55,6 +55,7 @@
 
 	<div class="img-container">
 		<img src="/img/bendigo.jpg">
+		<p class="img-description">One for singles, one for doubles (with Emelyn Starr, whose humour helped me during the singles final, when the pressure of the situation was making me feel nervous), and one I didn't get to keep. I think they engraved my name on it.</p>
 	</div>
 
 	<p>I then began to travel the country on my own to play, and at 17, the world. I won a couple of international
