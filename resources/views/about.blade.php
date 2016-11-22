@@ -58,8 +58,7 @@
 		<p class="img-description">One for singles, one for doubles (with Emelyn Starr, whose humour helped me during the singles final, when the pressure of the situation was making me feel nervous), and one I didn't get to keep. I think they engraved my name on it.</p>
 	</div>
 
-	<p>I then began to travel the country on my own to play, and at 17, the world. I won a couple of international
-		titles, and reached a world ranking of 135 for girls under 19.</p>
+	<p>I then began to travel the country on my own to play, and at 17, the world. While still 15, I won a couple of international tournaments for girls under 19.</p>
 
 	<p>What started out as ‘homeschooling’ would often be ‘awayschooling.’ I finished a few years ‘late,’ but
 		got there eventually. My favourite subjects were French and Shorthand-I had a love for learning languages.</p>
@@ -95,7 +94,7 @@
 		that, and other things (I don’t think I’ll be eating chicken ever again.), led to me nearly losing my
 		life, or so it felt.</p>
 
-	<p>Over the next few years, I spent a lot of my life in bed. I experienced crazy, crazy symptoms, and survival felt
+	<p>I was diagnosed with Chronic Fatigue Syndrome, and over the next few years, I spent a lot of my life in bed. I experienced crazy, crazy symptoms, and survival felt
 		like a struggle. But I think the depression and anxiety I had previously experienced, as well as my years of trying to find my way through obstacles as a
 		tennis player, really helped me get through those years. And I was grateful to be with my family again, and grateful
 		for their support.</p>
