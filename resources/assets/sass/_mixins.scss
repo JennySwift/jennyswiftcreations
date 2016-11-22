@@ -56,3 +56,10 @@
         width: 32px;
     }
 }
+
+@mixin h1 {
+    h1 {
+        margin: 0;
+        padding: 10px 0;
+    }
+}

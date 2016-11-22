@@ -13,6 +13,10 @@
             <a href="/contact">Contact/Connect</a>
         </li>
 
+        <li>
+            <a href="/hire">Hire</a>
+        </li>
+
         <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">About<span class="caret"></span></a>
             <ul class="dropdown-menu dropdown-menu-right" role="menu">

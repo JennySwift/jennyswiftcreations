@@ -35,6 +35,11 @@ Route::get('/contact', function()
     return view('contact');
 });
 
+Route::get('/hire', function()
+{
+    return view('hire');
+});
+
 Route::get('/about', function()
 {
     return view('about');
