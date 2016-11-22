@@ -28,7 +28,7 @@
 	<p>At 12, I became state champion on my birthday, and later, national champion. I still have the tennis balls, the
 		string that was in my racquet during the final, and…my fingernails. Sentimental stuff. :)</p>
 
-	<p>I played for Australia in a teams event against New Zealand, and again two years later. We won on both occasions.</p>
+	<p>I played for Australia in a teams event against New Zealand, and again, two years later. We won on both occasions.</p>
 
 	<p>At 14, I was national champion again for my age group. Very fond memories there. I was little compared to my
 		opponents and I won with my head and my heart, not my strength. There were many times I looked down and out,
@@ -61,7 +61,7 @@
 	<p>I then began to travel the country on my own to play, and at 17, the world. I won a couple of international
 		titles, and reached a world ranking of 135 for girls under 19.</p>
 
-	<p>What started out as ‘homeschooling’ would often be ‘awayfromhomeschooling.’ I finished a few years ‘late,’ but
+	<p>What started out as ‘homeschooling’ would often be ‘awayschooling.’ I finished a few years ‘late,’ but
 		got there eventually. My favourite subjects were French and Shorthand-I had a love for learning languages.</p>
 
 	<p>Over the years, there were times I felt like quitting tennis, where I was sick of hitting tennis balls again, and
@@ -75,8 +75,8 @@
 
 	<p>By 18, the competition seemed to get harder. Somehow, I made it to the final of the nationals. I think I surprised myself and
 		probably others. I was playing the best tennis of my life, and I had to. I’m pretty sure I wouldn’t have made it
-		that far without my dad there. The final was a memorable tragedy-well, at least from my point of view. I was up
-		a set and 2-0, and all of a sudden, out of the blue, my game lost its oomph. I lost and it was quite a mystery
+		that far without my dad there. The final was a memorable tragedy-well, at least from my point of view. I won the first set comfortably (So apparently it wasn't that 'memorable'-I don't remember the score. :P),
+		and was up 2-0 in the second, and all of a sudden, out of the blue, my game lost its oomph. I lost and it was quite a mystery
 		what happened to me.</p>
 
 	<p>Looking back, I think it was a sign of what was to come. Others won with power. For me to win, it took
@@ -87,12 +87,12 @@
 		I was playing the best tennis of my life. I wanted to turn pro, and I knew I was running out of time. And so,
 		being setback from yet another injury, after all my hard work, broke my heart.</p>
 
-	<p>Having that time away from tennis gave me more time to think about deeper things than, for example, improving my forehand. Thoughts that the demands of a tennis life didn’t allow for, that I once had to bury, were given the chance to come to the surface. I began to find problems with the faith I had been brought up with, and I didn’t know how to handle my faith not making sense, and I fell apart.</p>
+	<p>Having that time away from tennis gave me more time to think about deeper things than, for example, improving my forehand. Thoughts that the demands of my tennis life didn’t allow for, that I once had to bury, were given the chance to come to the surface. I began to find problems with the faith I had been brought up with. I didn’t know how to handle my faith not making sense, and I fell apart.</p>
 
 	<p>Eventually, I recovered from my injury and started playing
 		again. I won quite a few more titles, but, feeling the pressure of time running out for me to ‘make it,' and not
-		wanting to think myself a failure, I pushed myself really, really hard, but apparently, way too hard. I think
-		that, as well as other things (I don’t think I’ll be eating chicken ever again.), led to me nearly losing my
+		wanting to think myself a failure, I pushed myself really, really hard, but apparently, way too hard. I think a combination of
+		that, and other things (I don’t think I’ll be eating chicken ever again.), led to me nearly losing my
 		life, or so it felt.</p>
 
 	<p>Over the next few years, I spent a lot of my life in bed. I experienced crazy, crazy symptoms, and survival felt
@@ -104,7 +104,7 @@
 
 	<p>The hard times I went through gave me a new joy and appreciation for things that are easy to take for granted.
 		Perhaps my favourite-being able to talk. After being unable to do so, and unsure if I would ever be able to
-		again, being able to talk again was so very, very, very precious. And after feeling dependant on society for so long, longing to contribute but being unable to, being able to do favours for people, and later, to work, meant a lot to me.</p>
+		again, being able to talk again was so very, very, very precious. And after feeling dependant on society for so long, longing to contribute, but being unable to, being able to do favours for people, and later, to work, meant a lot to me.</p>
 
 	<p>As I recovered, I spent a lot of time online learning new hobbies-knitting, growing food (I love being in nature.), carving wood, sewing clothes, and playing the ukulele. I discovered I loved to create things. I eventually decided that moving a piece of yarn around in a repetitive motion wasn’t for me, but I think it took me a while to realize that because I was fascinated by the learning process and the creative possibilities.</p>
 
@@ -160,9 +160,10 @@
 
 
 
-	<p>As my health improved, but I still needed to be at home, I started thinking about possibilities for work. I’d used Google Sketchup to build a model of the backyard, for designing a wedding present, and for calculating the floor space for a friend’s apartment. I quite enjoyed that. And I’d noticed, after a period of spending less time at the computer, that I missed learning online. And I loved playing Age of Empires-a strategy computer game. I wished I could have a job that took the same sort of skill, but was, well, useful.</p>
+	<p>As my health improved, but I still needed to be at home, I started thinking about possibilities for work. I’d used Google Sketchup to build a model of the backyard, for designing a wedding present (pictured above), and for calculating the floor space for a friend’s apartment. I quite enjoyed that. And I’d noticed, after a period of spending less time at the computer, that I missed learning online. And I loved playing Age of Empires-a strategy computer game. I wished I could have a job that took the same sort of skill, but was, well, useful.
+		<img src="emoticons/teeth-grin.png" class="emoticon emoticon-in-text"></p>
 
-	<p>I wasn’t sure if such a job existed, and so I was pretty thrilled to discovered coding. I did a two-week free trial at Team Treehouse, which sparked an interest, so I kept going. A few months later, my brother wished there was an app for budgeting with an unsteady income. I took on the challenge, hardly knowing anything at the time. Building this app was pretty much how I learned to code-seeing needs in my app, while taking courses to teach me how to meet those needs. Over time, a passion for coding grew in me and I knew I wanted to keep going.</p>
+	<p>I wasn’t sure if such a job existed, and so I was pretty thrilled to discover coding. I did a two-week free trial at Team Treehouse, which sparked an interest, so I kept going. A few months later, my brother wished there was an app for budgeting with an unsteady income. I took on the challenge, hardly knowing anything at the time. Building this app was pretty much how I learned to code-seeing needs in my app, while taking courses to teach me how to meet those needs. Over time, a passion for coding grew in me and I knew I wanted to keep going.</p>
 
 	{{--<p>As my health improved, but I still needed to be at home, I started searching for work that I could do from home.--}}
 		{{--It was then that I discovered coding. I did a two-week free trial at Team Treehouse, which sparked an interest,--}}

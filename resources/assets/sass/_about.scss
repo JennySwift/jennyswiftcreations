@@ -1,6 +1,10 @@
 #about {
     p {
         //color: $base2;
+        .emoticon-in-text {
+            width: 40px;
+            display: inline-block;
+        }
     }
     .funny-img {
         width: 300px;

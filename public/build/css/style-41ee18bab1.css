@@ -5825,6 +5825,7 @@ img, video {
   font-family: "Annie Use Your Telescope";
   font-size: 17px;
   width: 600px;
+  max-width: 100%;
   margin: -8px auto 30px auto;
   font-size: 15px; }
   .img-description .emoticon {
@@ -5835,6 +5836,7 @@ img, video {
   font-family: "Annie Use Your Telescope";
   font-size: 17px;
   width: 600px;
+  max-width: 100%;
   margin: -8px auto 30px auto;
   font-size: 15px;
   width: 300px; }
@@ -5846,6 +5848,7 @@ img, video {
   font-family: "Annie Use Your Telescope";
   font-size: 17px;
   width: 600px;
+  max-width: 100%;
   margin: -8px auto 30px auto;
   font-size: 15px;
   width: 300px;
@@ -6188,6 +6191,10 @@ img, video {
 #experience h1 {
   margin: 0;
   padding: 10px 0; }
+
+#about p .emoticon-in-text {
+  width: 40px;
+  display: inline-block; }
 
 #about .funny-img {
   width: 300px; }

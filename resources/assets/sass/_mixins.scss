@@ -39,6 +39,7 @@
     color: $base2;
     @include characterFont;
     width: 600px;
+    max-width: 100%;
     margin: -8px auto 30px auto;
     font-size: 15px;
     .emoticon {
