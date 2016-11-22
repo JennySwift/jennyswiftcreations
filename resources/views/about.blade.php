@@ -80,23 +80,26 @@
 
 	<p>I got a lot of injuries over the years. One of them was just after winning a tournament on my 19th birthday, and
 		I was playing the best tennis of my life. I wanted to turn pro, and I knew I was running out of time. And so,
-		being setback from yet another injury, after all my hard work, broke my heart. I made mistakes during that time
-		away from tennis, and turned into an emotional mess. Eventually, I recovered from my injury and started playing
-		again. I won quite a few more titles, but feeling the pressure of time running out for me to ‘make it,' and not
+		being setback from yet another injury, after all my hard work, broke my heart.</p>
+
+	<p>Having that time away from tennis gave me more time to think about deeper things than, for example, improving my forehand. Thoughts that the demands of a tennis life didn’t allow for, that I once had to bury, were given the chance to come to the surface. I began to find problems with the faith I had been brought up with, and I didn’t know how to handle my faith not making sense, and I fell apart.</p>
+
+	<p>Eventually, I recovered from my injury and started playing
+		again. I won quite a few more titles, but, feeling the pressure of time running out for me to ‘make it,' and not
 		wanting to think myself a failure, I pushed myself really, really hard, but apparently, way too hard. I think
 		that, as well as other things (I don’t think I’ll be eating chicken ever again.), led to me nearly losing my
 		life, or so it felt.</p>
 
 	<p>Over the next few years, I spent a lot of my life in bed. I experienced crazy, crazy symptoms, and survival felt
-		like a struggle. But I think the depression and anxiety I had previously experienced, as well as my years as a
-		tennis player, really helped me get through those years. I was grateful to be with my family again, and grateful
+		like a struggle. But I think the depression and anxiety I had previously experienced, as well as my years of trying to find my way through obstacles as a
+		tennis player, really helped me get through those years. And I was grateful to be with my family again, and grateful
 		for their support.</p>
 
 	<p>In an attempt to get well, I didn’t eat for nearly four weeks, and switched to a diet of only plant foods. I’ve now been eating this way for over 7 years, and for most of that time, only raw. I’m not sure if that’s the best way to do it, but it seemed to work better for me during that time.</p>
 
 	<p>The hard times I went through gave me a new joy and appreciation for things that are easy to take for granted.
 		Perhaps my favourite-being able to talk. After being unable to do so, and unsure if I would ever be able to
-		again, being able to talk again was so very, very, very precious.</p>
+		again, being able to talk again was so very, very, very precious. And after feeling dependant on society for so long, longing to contribute but being unable to, being able to do favours for people, and later, to work, meant a lot to me.</p>
 
 	<p>As I recovered, I spent a lot of time online learning new hobbies-knitting, growing food (I love being in nature.), carving wood, sewing clothes, and playing the ukulele. I discovered I loved to create things. I eventually decided that moving a piece of yarn around in a repetitive motion wasn’t for me, but I think it took me a while to realize that because I was fascinated by the learning process and the creative possibilities.</p>
 
