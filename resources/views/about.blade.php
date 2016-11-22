@@ -28,6 +28,8 @@
 	<p>At 12, I became state champion on my birthday, and later, national champion. I still have the tennis balls, the
 		string that was in my racquet during the final, and…my fingernails. Sentimental stuff. :)</p>
 
+	<p>I played for Australia in a teams event against New Zealand, and again two years later. We won on both occasions.</p>
+
 	<p>At 14, I was national champion again for my age group. Very fond memories there. I was little compared to my
 		opponents and I won with my head and my heart, not my strength. There were many times I looked down and out,
 		but, somehow, found a way to win. A point here or there could have made the difference between me losing early
@@ -40,7 +42,7 @@
 		fun times, driving off to some country tournament together, having a bit of an adventure. We’d take our ball
 		machine when my dad couldn’t join us, and she’d pick up the balls for me.</p>
 
-	<p>My dad and I would also compete together, and my mum would cheer us on. We had some good wins, and for days afterwards, we’d still be celebrating, repeatedly saying things like, “Hey, we won, Dad!” “Yeah, Jen, we won!” with big grins on our faces, and as if saying it for the first time after the event.</p>
+	<p>My dad and I would also compete together, and my mum would cheer us on. We had some good wins, and for days afterwards, we’d still be celebrating, repeatedly saying things like, “Hey, we won, Dad!” “Yeah, Jen, we won!” with big grins on our faces, and as if saying it for the first time after the event. Or we'd remind each other of the big shots we did that brought us to victory, reliving the moment.</p>
 
 	<p>After winning the 12s and 14s nationals when I was 12 and 14, I made it my goal to win the 16s a year ahead of
 		‘schedule.’ I achieved this at 15, winning a tough three set final against a girl I’d never beaten before. I was
