@@ -40,6 +40,8 @@
 		fun times, driving off to some country tournament together, having a bit of an adventure. We’d take our ball
 		machine when my dad couldn’t join us, and she’d pick up the balls for me.</p>
 
+	<p>My dad and I would also compete together, and my mum would cheer us on. We had some good wins, and for days afterwards, we’d still be celebrating, repeatedly saying things like, “Hey, we won, Dad!” “Yeah, Jen, we won!” with big grins on our faces, and as if saying it for the first time after the event.</p>
+
 	<p>After winning the 12s and 14s nationals when I was 12 and 14, I made it my goal to win the 16s a year ahead of
 		‘schedule.’ I achieved this at 15, winning a tough three set final against a girl I’d never beaten before. I was
 		ecstatic.</p>
