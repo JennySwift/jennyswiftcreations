@@ -1,3 +1,8 @@
 #hire {
     @include h1;
+    .emoticon {
+        display: block;
+        margin: 16px auto 18px -13px;
+        width: 140px;
+    }
 }

@@ -6205,4 +6205,9 @@ img, video {
   margin: 0;
   padding: 10px 0; }
 
+#hire .emoticon {
+  display: block;
+  margin: 16px auto 18px -13px;
+  width: 140px; }
+
 /*# sourceMappingURL=style.css.map */
