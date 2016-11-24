@@ -94,7 +94,7 @@
 		that, and other things (I don’t think I’ll be eating chicken ever again.), led to me nearly losing my
 		life, or so it felt.</p>
 
-	<p>I was diagnosed with Chronic Fatigue Syndrome, and over the next few years, I spent a lot of my life in bed. I experienced crazy, crazy symptoms, and survival felt
+	<p>I was diagnosed with Chronic Fatigue Syndrome, and over the next few years, I spent a lot of my life in bed. I experienced crazy, crazy symptoms ('Chronic Fatigue Syndrome,' I feel, is a very inadequate name.), and survival felt
 		like a struggle. But I think the depression and anxiety I had previously experienced, as well as my years of trying to find my way through obstacles as a
 		tennis player, really helped me get through those years. And I was grateful to be with my family again, and grateful
 		for their support.</p>
@@ -102,7 +102,7 @@
 	<p>In an attempt to get well, I didn’t eat for nearly four weeks, and switched to a diet of only plant foods. I’ve now been eating this way for over 7 years, and for most of that time, only raw. I’m not sure if that’s the best way to do it, but it seemed to work better for me during that time.</p>
 
 	<p>The hard times I went through gave me a new joy and appreciation for things that are easy to take for granted.
-		Perhaps my favourite-being able to talk. After being unable to do so, and unsure if I would ever be able to
+		Perhaps my favourite-being able to talk. After being unable to do so (one of those 'crazy' symptoms), and unsure if I would ever be able to
 		again, being able to talk again was so very, very, very precious. And after feeling dependant on society for so long, longing to contribute, but being unable to, being able to do favours for people, and later, to work, meant a lot to me.</p>
 
 	<p>As I recovered, I spent a lot of time online learning new hobbies-knitting, growing food (I love being in nature.), carving wood, sewing clothes, and playing the ukulele. I discovered I loved to create things. I eventually decided that moving a piece of yarn around in a repetitive motion wasn’t for me, but I think it took me a while to realize that because I was fascinated by the learning process and the creative possibilities.</p>
