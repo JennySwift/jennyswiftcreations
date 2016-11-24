@@ -25,8 +25,9 @@
 			<img src="emoticons/silly.png" class="emoticon"></p>
 	</div>
 
-	<p>At 12, I became state champion on my birthday, and later, national champion. I still have the tennis balls, the
-		string that was in my racquet during the final, and…my fingernails. Sentimental stuff. :)</p>
+	<p>Actually, losing fed my desire to improve, too, perhaps more so than winning. At 11, after losing to the number 1 seed in the quarterfinals of the New South Wales state championships, I was inspired by the level of my opponent and wanted to practice more, so that I’d get as good as her.</p>
+
+	<p>At 12, I won that same tournament, becoming state champion on my birthday, and later that year, I became national champion. I still have the tennis balls, the string that was in my racquet during the final, and…my fingernails. Sentimental stuff. :)</p>
 
 	<p>I played for Australia in a teams event against New Zealand, and again, two years later. We won on both occasions.</p>
 
