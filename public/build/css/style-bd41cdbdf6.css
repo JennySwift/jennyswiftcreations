@@ -6004,6 +6004,7 @@ img, video {
   #navbar .dropdown-menu a {
     color: #FF926F; }
     #navbar .dropdown-menu a:hover {
+      color: white;
       background: #FF5F6D; }
   #navbar > li {
     display: -ms-flexbox;
