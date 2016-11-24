@@ -61,6 +61,8 @@
 
 	<p>I then began to travel the country on my own to play, and at 17, the world. While still 15, I won a couple of international tournaments for girls under 19.</p>
 
+	<p>I have some funny memories from my years as a tennis player. I wore shin pads during a match (a temporary solution until I learned how to serve without whacking my leg in the process). I wore toy handcuffs during practice. (It helped my forehand.) I walked on the court for a match, before learning I had my shirt inside out (oops :)). And I’d dance to the Beatles in the girls’ toilets, as somewhat of a pre-match routine, while on my way to claiming one of my international titles-perhaps I should have kept it up. :)</p>
+
 	<p>What started out as ‘homeschooling’ would often be ‘awayschooling.’ I finished a few years ‘late,’ but
 		got there eventually. My favourite subjects were French and Shorthand-I had a love for learning languages.</p>
 
