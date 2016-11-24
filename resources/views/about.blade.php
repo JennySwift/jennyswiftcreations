@@ -29,7 +29,7 @@
 
 	<p>At 12, I won that same tournament, becoming state champion on my birthday, and later that year, I became national champion. I still have the tennis balls, the string that was in my racquet during the final, and…my fingernails. Sentimental stuff. :)</p>
 
-	<p>While still 12, I played inter-district above my age in the 14s, and was undefeated at singles throughout the whole season. I was voted winner of the Ken Rosewall best and fairest award. I also played for Australia in a teams event against New Zealand, and again two years later. We won on both occasions.</p>
+	<p>While still 12, I played inter-district above my age in the 14s, and was undefeated at singles throughout the whole season. I was voted winner of the Ken Rosewall best and fairest award. I also played for Australia in a teams event against New Zealand, and again, two years later. We won on both occasions.</p>
 
 	<p>At 14, I was national champion again for my age group. Very fond memories there. I was little compared to my
 		opponents and I won with my head and my heart, not my strength. There were many times I looked down and out,
@@ -61,7 +61,7 @@
 
 	<p>I then began to travel the country on my own to play, and at 17, the world. While still 15, I won a couple of international tournaments for girls under 19.</p>
 
-	<p>I have some funny memories from my years as a tennis player. I wore shin pads during a match (a temporary solution until I learned how to serve without whacking my leg in the process). I wore toy handcuffs during practice. (It helped my forehand.) I walked on the court for a match, before learning I had my shirt inside out (oops :)). And I’d dance to the Beatles in the girls’ toilets, as somewhat of a pre-match routine, while on my way to claiming one of my international titles-perhaps I should have kept it up. :)</p>
+	<p>I have some funny memories from my years as a tennis player. I wore shin pads during a match (a temporary solution until I learned how to serve without whacking my leg in the process). I wore toy handcuffs during practice. (It helped my forehand.) I walked on the court for a match, before learning I had my shirt inside out. (Oops. :)) And I’d dance to the Beatles in the girls’ toilets, as somewhat of a pre-match routine, while on my way to claiming one of my international titles-perhaps I should have kept it up. :)</p>
 
 	<p>I had similar success at doubles as I did at singles. I enjoyed the team aspect of it, and it was often more fun-fun, rather than serious-fun. I remember one doubles match with Emelyn Starr, where I was playing below average, feeling a strange kind of exhaustion-as if my laughing muscles were overworked. :)</p>
 
@@ -77,10 +77,10 @@
 		loved the tennis too much to quit-it felt like a relationship to me-by making it through the hard times
 		previously, we’d become so close-I was too attached to say, ‘Goodbye.'</p>
 
-	<p>By 18, the competition seemed to get harder. Somehow, I made it to the final of the nationals. I think I surprised myself and
+	<p>By 18, the competition seemed to get harder. Somehow, I made it to the final of the nationals. I think I surprised myself, and
 		probably others. I was playing the best tennis of my life, and I had to. I’m pretty sure I wouldn’t have made it
 		that far without my dad there. The final was a memorable tragedy-well, at least from my point of view. I won the first set comfortably (So apparently it wasn't that 'memorable'-I don't remember the score. :P),
-		and was up 2-0 in the second, and all of a sudden, out of the blue, my game lost its oomph. I lost and it was quite a mystery
+		and was up 2-0 in the second, and all of a sudden, out of the blue, my game lost its oomph. I lost, and it was quite a mystery
 		what happened to me.</p>
 
 	<p>Looking back, I think it was a sign of what was to come. Others won with power. For me to win, it took
@@ -91,7 +91,7 @@
 		I was playing the best tennis of my life. I wanted to turn pro, and I knew I was running out of time. And so,
 		being setback from yet another injury, after all my hard work, broke my heart.</p>
 
-	<p>Having that time away from tennis gave me more time to think about deeper things than, for example, improving my forehand. Thoughts that the demands of my tennis life didn’t allow for, that I once had to bury, were given the chance to come to the surface. I began to find problems with the faith I had been brought up with. I didn’t know how to handle my faith not making sense, and I fell apart.</p>
+	<p>Having that time away from tennis gave me more time to think about deeper things than, for example, improving my forehand. (Handcuffs alone weren't enough. :P) Thoughts that the demands of my tennis life didn’t allow for, that I once had to bury, were given the chance to come to the surface. I began to find problems with the faith I had been brought up with. I didn’t know how to handle my faith not making sense, and I fell apart.</p>
 
 	<p>Eventually, I recovered from my injury and started playing
 		again. I won quite a few more titles, but, feeling the pressure of time running out for me to ‘make it,' and not
@@ -99,10 +99,7 @@
 		that, and other things (I don’t think I’ll be eating chicken ever again.), led to me nearly losing my
 		life, or so it felt.</p>
 
-	<p>I was diagnosed with Chronic Fatigue Syndrome, and over the next few years, I spent a lot of my life in bed. I experienced crazy, crazy symptoms ('Chronic Fatigue Syndrome,' I feel, is a very inadequate name.), and survival felt
-		like a struggle. But I think the depression and anxiety I had previously experienced, as well as my years of trying to find my way through obstacles as a
-		tennis player, really helped me get through those years. And I was grateful to be with my family again, and grateful
-		for their support.</p>
+	<p>This turn of events forced me to say, ‘Goodbye’ to tennis, and I now had a new ‘opponent.’ I was diagnosed with Chronic Fatigue Syndrome, and over the next few years, I spent a lot of my life in bed. I experienced crazy, crazy symptoms ('Chronic Fatigue Syndrome,' I feel, is a very inadequate name.), and survival felt like a struggle. But I think the depression and anxiety I had previously experienced, as well as my years of trying to find my way through obstacles as a tennis player, really helped me get through those years. And I was grateful to be with my family again, and grateful for their support.</p>
 
 	<p>In an attempt to get well, I didn’t eat for nearly four weeks, and switched to a diet of only plant foods. I’ve now been eating this way for over 7 years, and for most of that time, only raw. I’m not sure if that’s the best way to do it, but it seemed to work better for me during that time.</p>
 
