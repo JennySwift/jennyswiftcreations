@@ -50,12 +50,12 @@
 		ecstatic.</p>
 
 	<div class="img-container">
-		<img src="/img/bendigo-2.jpg">
+		<img src="/img/bendigo-2.JPG">
 		<p class="img-description">A very happy me, after winning the 16s nationals. Thanks to Rod Dickson for these two photos, and the many others over the years.</p>
 	</div>
 
 	<div class="img-container">
-		<img src="/img/bendigo.jpg">
+		<img src="/img/bendigo.JPG">
 		<p class="img-description">One for singles, one for doubles (with Emelyn Starr, whose humour helped me during the singles final, when the pressure of the situation was making me feel nervous), and one I didn't get to keep. I think they engraved my name on it.</p>
 	</div>
 
