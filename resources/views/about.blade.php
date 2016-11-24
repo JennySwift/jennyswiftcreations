@@ -29,7 +29,7 @@
 
 	<p>At 12, I won that same tournament, becoming state champion on my birthday, and later that year, I became national champion. I still have the tennis balls, the string that was in my racquet during the final, and…my fingernails. Sentimental stuff. :)</p>
 
-	<p>I played for Australia in a teams event against New Zealand, and again, two years later. We won on both occasions.</p>
+	<p>While still 12, I played inter-district above my age in the 14s, and was undefeated at singles throughout the whole season. I was voted winner of the Ken Rosewall best and fairest award. I also played for Australia in a teams event against New Zealand, and again two years later. We won on both occasions.</p>
 
 	<p>At 14, I was national champion again for my age group. Very fond memories there. I was little compared to my
 		opponents and I won with my head and my heart, not my strength. There were many times I looked down and out,
