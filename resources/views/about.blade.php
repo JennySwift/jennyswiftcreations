@@ -160,9 +160,17 @@
 		{{--</div>--}}
 	{{--</div>--}}
 
-	<p>As I felt the battle was subsiding, I actually missed it. I love a challenge, and it felt a bit like my
-		‘opponent’ had walked off the court. I am now into calisthenics (bodyweight strength training), and am inspired
-		by the ‘impossible’ cool things I see the veterans doing.</p>
+	<p>	I remember during the harder days of CFS, lying there, feeling like it was (in my own words at the time), “taking all the energy I had just to be.” Or lying down to rest, only a few metres away from my bed, because a few metres felt too far to go. After the number of times I tried to do too much and ‘crashed,’ as we’d call it, taking weeks, or months to recover, I could have resigned myself to thinking that any attempt at an activity was dangerous and pointless, but I didn’t want to feel defeated. I had to be careful, and settle for slow progress (At one point, my ’training’ was pedalling the pedals of a stationary bike, just two times around in circle), but I’ve since run distances others would choose to drive (barefoot of course-who needs shoes? ;)).</p>
+	
+	<p>As I felt the battle with CFS was subsiding, I actually missed it. I love a challenge, and it felt a bit like my
+		‘opponent’ had walked off the court. I am now into calisthenics (bodyweight strength training-I think maybe it’s
+		my way of serving aces past CFS, after feeling threatened with match point on several occasions.), and am
+		inspired by the ‘impossible’ cool things I see the veterans doing. It might take me longer to get there than
+		‘well’ people, but I believe I can do it. And at the time of writing, my new calisthenics coach thinks I’m just
+		weeks away from doing dead-hanging chinups, something I’ve wanted to do for years.</p>
+	{{--<p>As I felt the battle was subsiding, I actually missed it. I love a challenge, and it felt a bit like my--}}
+		{{--‘opponent’ had walked off the court. I am now into calisthenics (bodyweight strength training), and am inspired--}}
+		{{--by the ‘impossible’ cool things I see the veterans doing.</p>--}}
 
 	<div class="img-container">
 		<video controls>
