@@ -5777,7 +5777,7 @@ a {
   text-decoration: none;
   color: #FF5F6D;
   word-wrap: break-word; }
-  a:hover {
+  a:hover, a:focus {
     color: #ff2c3e; }
 
 p {
@@ -6206,6 +6206,12 @@ img, video {
 
 #about video {
   width: 600px; }
+
+#about .tennis-ball {
+  display: block;
+  width: 80px;
+  margin-left: -7px;
+  margin-top: 10px; }
 
 #hire h1 {
   margin: 0;

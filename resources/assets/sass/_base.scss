@@ -41,7 +41,7 @@ h1 {
 a {
     text-decoration: none;
     color: $base1;
-    &:hover {
+    &:hover, &:focus {
         color: darken($base1, 10%);
     }
     word-wrap: break-word;

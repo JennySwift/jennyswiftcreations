@@ -161,12 +161,12 @@
 	{{--</div>--}}
 
 	<p>	I remember during the harder days of CFS, lying there, feeling like it was (in my own words at the time), “taking all the energy I had just to be.” Or lying down to rest, only a few metres away from my bed, because a few metres felt too far to go. After the number of times I tried to do too much and ‘crashed,’ as we’d call it, taking weeks, or months to recover, I could have resigned myself to thinking that any attempt at an activity was dangerous and pointless, but I didn’t want to feel defeated. I had to be careful, and settle for slow progress (At one point, my ’training’ was pedalling the pedals of a stationary bike, just two times around in circle), but I’ve since run distances others would choose to drive (barefoot of course-who needs shoes? ;)).</p>
-	
+
 	<p>As I felt the battle with CFS was subsiding, I actually missed it. I love a challenge, and it felt a bit like my
 		‘opponent’ had walked off the court. I am now into calisthenics (bodyweight strength training-I think maybe it’s
 		my way of serving aces past CFS, after feeling threatened with match point on several occasions.), and am
 		inspired by the ‘impossible’ cool things I see the veterans doing. It might take me longer to get there than
-		‘well’ people, but I believe I can do it. And at the time of writing, my new calisthenics coach thinks I’m just
+		‘well’ people, but I believe I can do it. And at the time of writing, <a href="http://www.mpcalisthenics.com" target="_blank">my new calisthenics coach</a> thinks I’m just
 		weeks away from doing dead-hanging chinups, something I’ve wanted to do for years.</p>
 	{{--<p>As I felt the battle was subsiding, I actually missed it. I love a challenge, and it felt a bit like my--}}
 		{{--‘opponent’ had walked off the court. I am now into calisthenics (bodyweight strength training), and am inspired--}}
@@ -194,6 +194,11 @@
 
 	<p>I wasn’t sure if such a job existed, and so I was pretty thrilled to discover coding. I did a two-week free trial at Team Treehouse, which sparked an interest, so I kept going. A few months later, my brother wished there was an app for budgeting with an unsteady income. I took on the challenge, hardly knowing anything at the time. Building this app was pretty much how I learned to code-seeing needs in my app, while taking courses to teach me how to meet those needs. Over time, a passion for coding grew in me and I knew I wanted to keep going.</p>
 
+	<p>To end my story here would feel incomplete. More traumas have come my way. I seem to have somewhat of a knack for meeting with them. Perhaps it’s because I tend to value truth and authenticity over comfort, learning and growing over staying put, and because I tend to challenge the norm, and question the ‘unquestionable.’ Sometimes I lose heart, and I can’t say I’ve made my way through them all. But perhaps I’d be bored if I could say that.</p>
+
+	<p>My traumas have challenged me and changed me. Looking back on my tennis life, it now seems self-centered to me. Directing all my time and energy into becoming a better tennis player, I hadn’t yet discovered the joy of loving those around me. When I felt somewhat on my ‘deathbed,’ I began to wonder what the point of all my achievements was, since I didn’t think I’d be leaving much behind for the world. I hope I can redirect the passion and energy I demonstrated, that brought about my success, to make the world a better place.</p>
+
+	<p>Thank you for reading my story. <img src="emoticons/tennis-ball.png" class="tennis-ball"></p>
 	{{--<p>As my health improved, but I still needed to be at home, I started searching for work that I could do from home.--}}
 		{{--It was then that I discovered coding. I did a two-week free trial at Team Treehouse, which sparked an interest,--}}
 		{{--so I kept going. A few months later, my brother wished there was an app for budgeting with an unsteady income. I--}}
