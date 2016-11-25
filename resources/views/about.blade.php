@@ -77,6 +77,26 @@
 		loved the tennis too much to quit-it felt like a relationship to me-by making it through the hard times
 		previously, we’d become so close-I was too attached to say, ‘Goodbye.'</p>
 
+	<p>My serve was the weaker part of my game, and being shorter than my opponents didn’t help. And although I
+		generally excelled under pressure, playing in front of, what felt to me, large crowds, was a different story. I
+		remember being in New Zealand, and I’d been having trouble with my serve. As was often the case, I had no coach
+		with me. (I tried to coach myself.) I was playing a doubles final, and I was serving to try and stay in the
+		match, in front of what felt like a big audience. I did the biggest choke I’d ever done, to lose the match. I’d
+		let my partner and myself down. I’d let the crowd down. And doing four double faults to lose the match, with
+		lots of people watching, didn’t exactly feel good on the ego. I retreated to a place of solitude, and cried.
+		:)</p>
+
+	<p>On another occasion, in England this time, my serve let me down again, big time. I remember being on the phone
+		to my dad, in tears. The pressure of going all the way to England and having to win to make it worth it, not
+		wanting to let my parents down, and feeling like I could have won if it wasn’t for my serve-it was killing me
+		inside. I’d had enough. I had to do something about it. I didn’t know how, but I was going to.</p>
+
+	<p>Eventually, my serve became my strength. I think it was due to a number of things, in particular, my resolve to
+		turn things around, and a very helpful tip from my footwork coach, David Bailey, that I’d never heard from any
+		other coach. Instead of feeling like I was losing matches that I could have won if it wasn’t for my serve, I
+		felt like I was winning matches that I could have lost if it wasn’t for my serve. I got a huge kick out of
+		turning things around like that.</p>
+	
 	<p>By 18, the competition seemed to get harder. Somehow, I made it to the final of the nationals. I think I surprised myself, and
 		probably others. I was playing the best tennis of my life, and I had to. I’m pretty sure I wouldn’t have made it
 		that far without my dad there. The final was a memorable tragedy-well, at least from my point of view. I won the first set comfortably (So apparently it wasn't that 'memorable'-I don't remember the score. :P),
