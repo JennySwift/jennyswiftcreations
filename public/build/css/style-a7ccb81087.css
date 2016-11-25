@@ -6205,7 +6205,8 @@ img, video {
   width: 300px; }
 
 #about video {
-  width: 600px; }
+  width: 600px;
+  margin-top: 15px; }
 
 #about .tennis-ball {
   display: block;
