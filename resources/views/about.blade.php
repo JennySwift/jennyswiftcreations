@@ -96,7 +96,7 @@
 		other coach. Instead of feeling like I was losing matches that I could have won if it wasn’t for my serve, I
 		felt like I was winning matches that I could have lost if it wasn’t for my serve. I got a huge kick out of
 		turning things around like that.</p>
-	
+
 	<p>By 18, the competition seemed to get harder. Somehow, I made it to the final of the nationals. I think I surprised myself, and
 		probably others. I was playing the best tennis of my life, and I had to. I’m pretty sure I wouldn’t have made it
 		that far without my dad there. The final was a memorable tragedy-well, at least from my point of view. I won the first set comfortably (So apparently it wasn't that 'memorable'-I don't remember the score. :P),
@@ -111,7 +111,7 @@
 		I was playing the best tennis of my life. I wanted to turn pro, and I knew I was running out of time. And so,
 		being setback from yet another injury, after all my hard work, broke my heart.</p>
 
-	<p>Having that time away from tennis gave me more time to think about deeper things than, for example, improving my forehand. (Handcuffs alone weren't enough. :P) Thoughts that the demands of my tennis life didn’t allow for, that I once had to bury, were given the chance to come to the surface. I began to find problems with the faith I had been brought up with. I didn’t know how to handle my faith not making sense, and I fell apart.</p>
+	<p>Having that time away from tennis gave me more time to think about deeper things than, for example, improving my forehand. (It still needed improving-handcuffs alone weren't enough. :P) Thoughts that the demands of my tennis life didn’t allow for, that I once had to bury, were given the chance to come to the surface. I began to find problems with the faith I had been brought up with. I didn’t know how to handle my faith not making sense, and I fell apart.</p>
 
 	<p>Eventually, I recovered from my injury and started playing
 		again. I won quite a few more titles, but, feeling the pressure of time running out for me to ‘make it,' and not
