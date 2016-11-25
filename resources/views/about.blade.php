@@ -119,7 +119,7 @@
 		that, and other things (I don’t think I’ll be eating chicken ever again.), led to me nearly losing my
 		life, or so it felt.</p>
 
-	<p>This turn of events forced me to say, ‘Goodbye’ to tennis, and I now had a new ‘opponent.’ I was diagnosed with Chronic Fatigue Syndrome, and over the next few years, I spent a lot of my life in bed. I experienced crazy, crazy symptoms ('Chronic Fatigue Syndrome,' I feel, is a very inadequate name.), and survival felt like a struggle. But I think the depression and anxiety I had previously experienced, as well as my years of trying to find my way through obstacles as a tennis player, really helped me get through those years. And I was grateful to be with my family again, and grateful for their support.</p>
+	<p>This turn of events forced me to say, ‘Goodbye’ to tennis, and I now had a new ‘opponent.’ I was diagnosed with Chronic Fatigue Syndrome (CFS), and over the next few years, I spent a lot of my life in bed. I experienced crazy, crazy symptoms ('Chronic Fatigue Syndrome,' I feel, is a very inadequate name.), and survival felt like a struggle. But I think the depression and anxiety I had previously experienced, as well as my years of trying to find my way through obstacles as a tennis player, really helped me get through those years. And I was grateful to be with my family again, and grateful for their support.</p>
 
 	<p>In an attempt to get well, I didn’t eat for nearly four weeks, and switched to a diet of only plant foods. I’ve now been eating this way for over 7 years, and for most of that time, only raw. I’m not sure if that’s the best way to do it, but it seemed to work better for me during that time.</p>
 
