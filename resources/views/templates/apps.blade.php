@@ -1,9 +1,9 @@
 <div class="multi-app-container">
 
     <div class="welcome">
-        <p class="header">Hi, and thanks for visiting!</p>
+        <h1 class="header">Hi, and thanks for visiting!</h1>
         <img src="emoticons/Cheerful.png" class="emoticon">
-        <p>This site and my apps are still in progress, but feel free to have a look around and try out my demos!</p>
+        <p class="introduction">I don't yet consider my apps to be ready for general public use, although I think they're pretty useful. But please feel free to try out my demos and let me know if you'd like to use any of them. Perhaps you could even help me make them better by suggesting new features. :)</p>
     </div>
 
     <div class="app-container">
