@@ -70,7 +70,7 @@
 
 	<p>Over the years, there were times I felt like quitting tennis, where I was sick of hitting tennis balls again, and
 		again, and again, or I wondered what else there was to life that I was missing out on, since tennis was my life.
-		But through talking it out with my parents, they would help me regain my motivation, and so I kept going.</p>
+		But through talking it out with my parents (They helped me see tennis as training for life-that the things required for tennis, such as dedication, patience, or perseverance, could come in handy later on.), they would help me regain my motivation, and so I kept going.</p>
 
 	<p>It was a very lonely lifestyle, being away from home so much, and on my own. One time when I was really
 		struggling with homesickness, it was my mum who was asking the question if I really wanted to keep going. I
