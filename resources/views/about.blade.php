@@ -108,7 +108,7 @@
 
 	<p>I got a lot of injuries over the years. One of them was just after winning a tournament on my 19th birthday, and
 		I was playing the best tennis of my life. I wanted to turn pro, and I knew I was running out of time. And so,
-		being setback from yet another injury, after all my hard work, broke my heart.</p>
+		being setback from yet another injury, needing to take time off tennis, after all my hard work, broke my heart.</p>
 
 	<p>Having that time away from tennis gave me more time to think about deeper things than, for example, improving my forehand. (It still needed improving-handcuffs alone weren't enough. :P) Thoughts that the demands of my tennis life didn’t allow for, that I once had to bury, were given the chance to come to the surface. I began to find problems with the faith I had been brought up with. I didn’t know how to handle my faith not making sense, and I fell apart.</p>
 
