@@ -111,7 +111,7 @@
 
 	<p>Having that time away from tennis gave me more time to think about deeper things than, for example, improving my forehand. (It still needed improving-handcuffs alone weren't enough. :P) Thoughts that the demands of my tennis life didn’t allow for, that I once had to bury, were given the chance to come to the surface. I began to find problems with the faith I had been brought up with. I didn’t know how to handle my faith not making sense, and I fell apart.</p>
 
-	<p>Eventually, I recovered from my injury and started playing
+	<p>Eventually, I recovered from my injury, and started playing
 		again. I won quite a few more titles, but, feeling the pressure of time running out for me to ‘make it,' and not
 		wanting to think myself a failure, I pushed myself really, really hard, but apparently, way too hard. I think a combination of
 		that, and other things (I don’t think I’ll be eating chicken ever again.), led to me nearly losing my
