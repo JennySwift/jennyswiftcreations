@@ -70,7 +70,7 @@
 
 	<p>Over the years, there were times I felt like quitting tennis, where I was sick of hitting tennis balls again, and
 		again, and again, or I wondered what else there was to life that I was missing out on, since tennis was my life.
-		But through talking it out with my parents (They helped me see tennis as training for life-that the things required for tennis, such as dedication, patience, or perseverance, could come in handy later on.), they would help me regain my motivation, and so I kept going.</p>
+		But through talking it out with my parents, they would help me regain my motivation (They helped me see tennis as training for life-that the things required for tennis, such as dedication, patience, or perseverance, could come in handy later on.), and so I kept going.</p>
 
 	<p>It was a very lonely lifestyle, being away from home so much, and on my own. One time when I was really
 		struggling with homesickness, it was my mum who was asking the question if I really wanted to keep going. I
@@ -83,7 +83,7 @@
 		with me. (I tried to coach myself.) I was playing a doubles final, and I was serving to try and stay in the
 		match, in front of what felt like a big audience. I did the biggest choke I’d ever done, to lose the match. I’d
 		let my partner and myself down. I’d let the crowd down. And doing four double faults to lose the match, with
-		lots of people watching, didn’t exactly feel good on the ego. I retreated to a place of solitude, and cried.
+		lots of people watching, didn’t exactly feel nice on the ego. I retreated to a place of solitude, and cried.
 		:)</p>
 
 	<p>On another occasion, in England this time, my serve let me down again, big time. I remember being on the phone
@@ -160,7 +160,7 @@
 		{{--</div>--}}
 	{{--</div>--}}
 
-	<p>	I remember during the harder days of CFS, lying there, feeling like it was (in my own words at the time), “taking all the energy I had just to be.” Or lying down to rest, only a few metres away from my bed, because a few metres felt too far to go. After the number of times I tried to do too much and ‘crashed,’ as we’d call it, taking weeks, or months to recover, I could have resigned myself to thinking that any attempt at an activity was dangerous and pointless, but I didn’t want to feel defeated. I had to be careful, and settle for slow progress (At one point, my ’training’ was pedalling the pedals of a stationary bike, just two times around in circle), but I’ve since run distances others would choose to drive (barefoot of course-who needs shoes? ;)).</p>
+	<p>	I remember during the harder days of CFS, lying there, feeling like it was (in my own words at the time), “taking all the energy I had just to be.” Or lying down to rest, only a few metres away from my bed, because a few metres felt too far to go. After the number of times I tried to do too much and ‘crashed,’ as we’d call it, taking weeks, or months to recover, I could have resigned myself to thinking that any attempt at an activity was dangerous and pointless, but I didn’t want to feel defeated. I had to be careful, and settle for slow progress (At one point, my 'training' was pedalling the pedals of a stationary bike, just two times around in circle), but I’ve since run distances others would choose to drive (barefoot of course-who needs shoes? ;)).</p>
 
 	<p>As I felt the battle with CFS was subsiding, I actually missed it. I love a challenge, and it felt a bit like my
 		‘opponent’ had walked off the court. I am now into calisthenics (bodyweight strength training-I think maybe it’s
@@ -196,7 +196,7 @@
 
 	<p>To end my story here would feel incomplete. More traumas have come my way. I seem to have somewhat of a knack for meeting with them. Perhaps it’s because I tend to value truth and authenticity over comfort, learning and growing over staying put, and because I tend to challenge the norm, and question the ‘unquestionable.’ Sometimes I lose heart, and I can’t say I’ve made my way through them all. But perhaps I’d be bored if I could say that.</p>
 
-	<p>My traumas have challenged me and changed me. Looking back on my tennis life, it now seems self-centered to me. Directing all my time and energy into becoming a better tennis player, I hadn’t yet discovered the joy of loving those around me. When I felt somewhat on my ‘deathbed,’ I began to wonder what the point of all my achievements was, since I didn’t think I’d be leaving much behind for the world. I hope I can redirect the passion and energy I demonstrated, that brought about my success, to make the world a better place.</p>
+	<p>My traumas have challenged me and changed me. Looking back on my tennis life, it now seems self-centered to me. Directing all my time and energy into becoming a better tennis player, I hadn’t yet discovered the joy of loving those around me. When I felt somewhat on my ‘deathbed,’ I began to wonder what in the world the point of all my achievements was, since I didn’t think I’d be leaving much behind for the world. I hope I can redirect the passion and energy I demonstrated, that brought about my success, to make the world a better place.</p>
 
 	<p>Thank you for reading my story. <img src="emoticons/tennis-ball.png" class="tennis-ball"></p>
 	{{--<p>As my health improved, but I still needed to be at home, I started searching for work that I could do from home.--}}
