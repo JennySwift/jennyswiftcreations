@@ -32,12 +32,12 @@
 	<p>While still 12, I played inter-district above my age in the 14s, and was undefeated at singles throughout the whole season. I was voted winner of the Ken Rosewall best and fairest award. I also played for Australia in a teams event against New Zealand, and again, two years later. We won on both occasions.</p>
 
 	<p>At 14, I was national champion again for my age group. Very fond memories there. I was little compared to my
-		opponents and I won with my head and my heart, not my strength. There were many times I looked down and out,
+		opponents, and I won with my head and my heart, not my strength. There were many times I looked down and out,
 		but, somehow, found a way to win. A point here or there could have made the difference between me losing early
 		on, and winning the tournament. I didn't keep my fingernails for this one, though. ;)</p>
 
 	<p>My fondest tennis memories are those with my mum and dad. My dad was my coach, and we spent many, many hours on
-		the tennis court together. Although unqualified as a tennis coach, he made an awesome one because he was smart and dedicated.
+		the tennis court together. Although unqualified as a tennis coach, he made an awesome one, because he was smart and dedicated.
 		When he was able to take time off work to come with me to tournaments, I played better. I don’t think I would
 		have had anywhere near the success I did if it wasn’t for my dad. And my mum was an awesome help, too. We had
 		fun times, driving off to some country tournament together, having a bit of an adventure. We’d take our ball
@@ -125,7 +125,7 @@
 		Perhaps my favourite-being able to talk. After being unable to do so (one of those 'crazy' symptoms), and unsure if I would ever be able to
 		again, being able to talk again was so very, very, very precious. And after feeling dependant on society for so long, longing to contribute, but being unable to, being able to do favours for people, and later, to work, meant a lot to me.</p>
 
-	<p>As I recovered, I spent a lot of time online learning new hobbies-knitting, growing food (I love being in nature.), carving wood, sewing clothes, and playing the ukulele. I discovered I loved to create things. I eventually decided that moving a piece of yarn around in a repetitive motion wasn’t for me, but I think it took me a while to realize that because I was fascinated by the learning process and the creative possibilities.</p>
+	<p>As I recovered, I spent a lot of time online learning new hobbies-knitting, growing food (I love being in nature.), carving wood, sewing clothes, and playing the ukulele. I discovered I loved to create things. I eventually decided that moving a piece of yarn around in a repetitive motion wasn’t for me, but I think it took me a while to realize that because I was fascinated by the learning process, and the creative possibilities.</p>
 
 	<div class="img-container">
 		<img src="/img/party.JPG">
@@ -158,7 +158,7 @@
 		{{--</div>--}}
 	{{--</div>--}}
 
-	<p>	I remember during the harder days of CFS, lying there, feeling like it was (in my own words at the time), “taking all the energy I had just to be.” Or lying down to rest, only a few metres away from my bed, because a few metres felt too far to go. After the number of times I tried to do too much and ‘crashed,’ as we’d call it, taking weeks, or months to recover, I could have resigned myself to thinking that any attempt at an activity was dangerous and pointless, but I didn’t want to feel defeated. I had to be careful, and settle for slow progress (At one point, my 'training' was pedalling the pedals of a stationary bike, just two times around in circle), but I’ve since run distances others would choose to drive (running barefoot, of course-who needs shoes? ;)).</p>
+	<p>	I remember during the harder days of CFS, lying there, feeling like it was (in my own words at the time), "taking all the energy I had, just to be." Or lying down to rest, only a few metres away from my bed, because a few metres felt too far to go. After the number of times I tried to do too much and 'crashed,' as we’d call it, taking weeks, or months to recover, I could have resigned myself to thinking that any attempt at an activity was dangerous and pointless, but I didn’t want to feel defeated. I had to be careful, and settle for slow progress (At one point, my 'training' was pedalling the pedals of a stationary bike, just two times around in circle), but I’ve since run distances others would choose to drive (running barefoot, of course-who needs shoes? ;)).</p>
 
 	<p>As I felt the battle with CFS was subsiding, I actually missed it. I love a challenge, and it felt a bit like my
 		‘opponent’ had walked off the court. I am now into calisthenics (bodyweight strength training-I think maybe it’s
@@ -192,9 +192,9 @@
 
 	<p>I wasn’t sure if such a job existed, and so I was pretty thrilled to discover coding. I did a two-week free trial at Team Treehouse, which sparked an interest, so I kept going. A few months later, my brother wished there was an app for budgeting with an unsteady income. I took on the challenge, hardly knowing anything at the time. Building this app was pretty much how I learned to code-seeing needs in my app, while taking courses to teach me how to meet those needs. Over time, a passion for coding grew in me, and I knew I wanted to keep going.</p>
 
-	<p>To end my story here would feel incomplete. More traumas have come my way. I seem to have somewhat of a knack for meeting with them. Perhaps it’s because I tend to value truth and authenticity over comfort, learning and growing over staying put, and because I tend to challenge the norm, and question the ‘unquestionable.’ Sometimes I lose heart, and I can’t say I’ve made my way through them all. But perhaps I’d be bored if I could say that.</p>
+	<p>To end my story here would feel incomplete. More traumas have come my way. I seem to have somewhat of a knack for meeting with them. Perhaps it’s because I tend to value truth and authenticity over comfort, learning and growing over staying put, and because I tend to challenge the norm, and question the 'unquestionable.' Sometimes I lose heart, and I can’t say I’ve made my way through them all. But perhaps I’d be bored if I could say that.</p>
 
-	<p>My traumas have challenged me and changed me. Looking back on my tennis life, it now seems self-centered to me. Directing all my time and energy into becoming a better tennis player, I hadn’t yet discovered the joy of loving those around me. When I felt somewhat on my ‘deathbed,’ I began to wonder what in the world the point of all my achievements was, since I didn’t think I’d be leaving much behind for the world. I hope I can redirect the passion and energy I demonstrated, that brought about my success, to make the world a better place.</p>
+	<p>My traumas have challenged me and changed me. Looking back on my tennis life, it now seems self-centered to me. Directing all my time and energy into becoming a better tennis player, I hadn’t yet discovered the joy of loving those around me. When I felt somewhat on my 'deathbed,' I began to wonder what in the world the point of all my achievements was, since I didn’t think I’d be leaving much behind for the world. I hope I can redirect the passion and energy I demonstrated, that brought about my success, to make the world a better place.</p>
 
 	<p>Thank you for reading my story. <img src="emoticons/tennis-ball.png" class="tennis-ball"></p>
 	{{--<p>As my health improved, but I still needed to be at home, I started searching for work that I could do from home.--}}
