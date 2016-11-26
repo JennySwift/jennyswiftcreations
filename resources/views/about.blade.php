@@ -98,7 +98,7 @@
 
 	<p>By 18, the competition seemed to get harder. Somehow, I made it to the final of the nationals. I think I surprised myself, and
 		probably others. I was playing the best tennis of my life, and I had to. I’m pretty sure I wouldn’t have made it
-		that far without my dad there. The final was a memorable tragedy-well, at least from my point of view. I won the first set comfortably (So apparently it wasn't that 'memorable'-I don't remember the score. :P),
+		that far without my dad there. The final was a memorable tragedy-well, at least from my point of view. I won the first set comfortably (So, apparently, it wasn't that 'memorable'-I don't remember the score. :P),
 		and was up 2-0 in the second, and all of a sudden, out of the blue, my game lost its oomph. I lost, and it was quite a mystery
 		what happened to me.</p>
 
