@@ -87,7 +87,7 @@
 		:)</p>
 
 	<p>On another occasion, in England this time, my serve let me down again, big time. I remember being on the phone
-		to my dad, in tears. There was pressure in going all the way to England to play-I felt like I had to win to make it worth it, and I didn't want to let my parents down. Feeling like I could have won if it wasn’t for my serve was killing me
+		to my dad, in tears. There was pressure in going all the way to England to play-I felt like I had to win to make it worth it, and I didn't want to let my parents down. Feeling like I could have won, if it wasn’t for my serve, was killing me
 		inside. I’d had enough. I had to do something about it. I didn’t know how, but I was going to.</p>
 
 	<p>Eventually, my serve became my strength. I think it was due to a number of things, in particular, my resolve to
