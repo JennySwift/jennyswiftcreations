@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>jennyswiftcreations</title>
     @include('templates.head-links')
 </head>
 <body>
