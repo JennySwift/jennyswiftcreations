@@ -19,6 +19,7 @@
         <div class="btn-container">
             {{--<button class="btn btn-warning">Info</button>--}}
             <a class="btn btn-success" href="http://budget_playground.jennyswiftcreations.com/">Demo</a>
+            <a class="btn btn-success" href="https://github.com/JennySwift/budget">View On GitHub</a>
         </div>
 
         <div class="img-container">
@@ -52,6 +53,7 @@
 
         <div class="btn-container">
             <a class="btn btn-success" href="http://listsplayground.jennyswiftcreations.com">Demo</a>
+            <a class="btn btn-success" href="https://github.com/JennySwift/lists">View On GitHub</a>
         </div>
 
         <div class="img-container">
@@ -68,6 +70,7 @@
 
         <div class="btn-container">
             <a class="btn btn-success" href="http://demo.time.jennyswiftcreations.com">Demo</a>
+            <a class="btn btn-success" href="https://github.com/JennySwift/time">View On GitHub</a>
         </div>
 
         <div class="img-container">
@@ -100,6 +103,7 @@
 
         <div class="btn-container">
             <a class="btn btn-success" href="http://thriveforlifechiropractic.com.au">Visit site</a>
+            <a class="btn btn-success" href="https://github.com/JennySwift/thrive-for-life-chiropractic">View On GitHub</a>
         </div>
 
         <div class="img-container">
