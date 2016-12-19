@@ -38,6 +38,8 @@
         <p>Nishant Kumar
             <br><a target="_blank" href="https://www.codementor.io/nihantanu">https://www.codementor.io/nihantanu</a>
         </p>
+
+        <p>(I think it was actually more like 3 months after our first session, not 6 months, when he wrote this.)</p>
     </div>
 
     <div class="review">
