@@ -66,6 +66,7 @@
 
         <div class="info-container">
             <p>I was using Toggl but wasn't really satisfied. I think there's still a lot more I could do to this app to improve it, but I love having the flexibility to add features as I like, instead of being restricted to using apps that aren't mine and therefore I can't build upon.</p>
+            <p style="color: #FF5F6D">Currently, Firefox is displaying this app weirdly. Please use another browser for the demo.</p>
         </div>
 
         <div class="btn-container">
