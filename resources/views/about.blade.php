@@ -202,6 +202,9 @@
 		{{--code-seeing needs in my app, while taking courses to teach me how to meet those needs. Over time, a passion for--}}
 		{{--coding grew in me and I knew I wanted to keep going.</p>--}}
 
+	{{--Doing inline style because gulp is erroring--}}
+	<h5 id="date-of-writing" style="color: #FF5F6D">Written November 2016</h5>
+
 </div>
 
 @include('templates.footer')
