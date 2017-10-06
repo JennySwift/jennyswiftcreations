@@ -61,39 +61,39 @@
         </div>
     </div>
 
-    <div class="app-container">
-        <h1>Time Tracking App</h1>
+    {{--<div class="app-container">--}}
+        {{--<h1>Time Tracking App</h1>--}}
 
-        <div class="info-container">
-            <p>I was using Toggl but wasn't really satisfied. I think there's still a lot more I could do to this app to improve it, but I love having the flexibility to add features as I like, instead of being restricted to using apps that aren't mine and therefore I can't build upon.</p>
-            <p style="color: #FF5F6D">Currently, Firefox is displaying this app weirdly. Please use another browser for the demo.</p>
-        </div>
+        {{--<div class="info-container">--}}
+            {{--<p>I was using Toggl but wasn't really satisfied. I think there's still a lot more I could do to this app to improve it, but I love having the flexibility to add features as I like, instead of being restricted to using apps that aren't mine and therefore I can't build upon.</p>--}}
+            {{--<p style="color: #FF5F6D">Currently, Firefox is displaying this app weirdly. Please use another browser for the demo.</p>--}}
+        {{--</div>--}}
 
-        <div class="btn-container">
-            <a class="btn btn-success" href="http://demo.time.jennyswiftcreations.com">Demo</a>
-            <a class="btn btn-success" href="https://github.com/JennySwift/time">View On GitHub</a>
-        </div>
+        {{--<div class="btn-container">--}}
+            {{--<a class="btn btn-success" href="http://demo.time.jennyswiftcreations.com">Demo</a>--}}
+            {{--<a class="btn btn-success" href="https://github.com/JennySwift/time">View On GitHub</a>--}}
+        {{--</div>--}}
 
-        <div class="img-container">
-            <img src="img/time.png" alt=""/>
-        </div>
-    </div>
+        {{--<div class="img-container">--}}
+            {{--<img src="img/time.png" alt=""/>--}}
+        {{--</div>--}}
+    {{--</div>--}}
 
-    <div class="app-container">
-        <h1>Dental App</h1>
+    {{--<div class="app-container">--}}
+        {{--<h1>Dental App</h1>--}}
 
-        <div class="info-container">
-            <p>A small app to keep track of patient data. Made for my mum who uses it at work on a daily basis.</p>
-        </div>
+        {{--<div class="info-container">--}}
+            {{--<p>A small app to keep track of patient data. Made for my mum who uses it at work on a daily basis.</p>--}}
+        {{--</div>--}}
 
-        <div class="btn-container">
-            <a class="btn btn-success" href="http://dental_playground.jennyswiftcreations.com/">Demo</a>
-        </div>
+        {{--<div class="btn-container">--}}
+            {{--<a class="btn btn-success" href="http://dental_playground.jennyswiftcreations.com/">Demo</a>--}}
+        {{--</div>--}}
 
-        <div class="img-container">
-            <img src="img/dental-app.png" alt=""/>
-        </div>
-    </div>
+        {{--<div class="img-container">--}}
+            {{--<img src="img/dental-app.png" alt=""/>--}}
+        {{--</div>--}}
+    {{--</div>--}}
 
     <div class="app-container">
         <h1>Thrive for Life Chiropractic</h1>
