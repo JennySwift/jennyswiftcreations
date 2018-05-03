@@ -1,14 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    @include('templates.head-links')
-</head>
-<body>
-    <navbar></navbar>
+@extends('layouts.app')
 
-	<div id="hire" class="main">
+@section('content')
+	<div id="hire">
 
-        <h1>Hire</h1>
+		<h1>Hire</h1>
 
 		<p>I’m a junior full-stack web developer. I love working remotely. I’m not quite sure why more companies don’t
 			allow it, when pretty much all I need is my computer and an internet connection. Perhaps my cleaner friend
@@ -23,8 +18,4 @@
 
 
 	</div>
-	
-	@include('templates.footer')
-		
-</body>
-</html>
+@endsection

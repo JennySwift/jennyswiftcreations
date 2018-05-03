@@ -32,14 +32,10 @@
             </ul>
         </li>
     </ul>
-
 </template>
 
 <script>
-    require('bootstrap');
-
-    module.exports = {
-        template: '#navbar-template',
+    export default {
         data: function () {
             return {
 
@@ -55,7 +51,9 @@
         ready: function () {
 
         }
-    };
-
+    }
 </script>
 
+<style lang="scss" type="text/scss">
+
+</style>

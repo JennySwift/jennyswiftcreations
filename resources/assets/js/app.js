@@ -1,19 +1,24 @@
 
-// require('./bootstrap');
+/**
+ * First we will load all of this project's JavaScript dependencies which
+ * includes Vue and other libraries. It is a great starting point when
+ * building robust, powerful web applications using Vue and Laravel.
+ */
 
-var Vue = require('vue');
-global.$ = require('jquery');
-global.jQuery = require('jquery');
+require('./bootstrap');
 
-var App = Vue.component('app', require('./components/AppComponent'));
-Vue.component('navbar', require('./components/shared/NavbarComponent.vue'));
+window.Vue = require('vue');
 
-var vm = new Vue({
-    el: 'body'
+/**
+ * Next, we will create a fresh Vue application instance and attach it to
+ * the page. Then, you may begin adding components to this application
+ * or customize the JavaScript scaffolding to fit your unique needs.
+ */
+
+import NavbarComponent from './components/shared/NavbarComponent'
+
+Vue.component('navbar', NavbarComponent);
+
+const app = new Vue({
+    el: '#app'
 });
-
-
-
-
-
-

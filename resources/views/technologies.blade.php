@@ -1,55 +1,46 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	@include('templates.head-links')
-</head>
-<body>
-<navbar></navbar>
+@extends('layouts.app')
 
-<div id="technologies" class="main">
+@section('content')
+	<div id="technologies">
 
-	<h1>Technologies/Skills</h1>
-	
-	<ul>
-		<li>HTML5</li>
-		<li>CSS3</li>
-		<li>Sass</li>
-		<li>JavaScript</li>
-		<li>PHP</li>
+		<h1>Technologies/Skills</h1>
 
-		<li>MySQL</li>
+		<ul>
+			<li>HTML5</li>
+			<li>CSS3</li>
+			<li>Sass</li>
+			<li>JavaScript</li>
+			<li>PHP</li>
 
-		<li>Laravel</li>
-		<li>Vue.js</li>
-		<li>AngularJS</li>
-		<li>Twitter Bootstrap</li>
+			<li>MySQL</li>
 
-		<li>jQuery</li>
+			<li>Laravel</li>
+			<li>Vue.js</li>
+			<li>AngularJS</li>
+			<li>Twitter Bootstrap</li>
 
-		<li>PhpStorm</li>
-		<li>Sublime Text</li>
+			<li>jQuery</li>
 
-		<li>Laravel Homestead</li>
-		<li>Laravel Forge</li>
+			<li>PhpStorm</li>
+			<li>Sublime Text</li>
 
-		<li>Webpack</li>
-		<li>Vagrant</li>
-		<li>Karma</li>
-		<li>Composer</li>
-		<li>npm</li>
-		<li>Git</li>
+			<li>Laravel Homestead</li>
+			<li>Laravel Forge</li>
 
-		<li>Pusher</li>
+			<li>Webpack</li>
+			<li>Vagrant</li>
+			<li>Karma</li>
+			<li>Composer</li>
+			<li>npm</li>
+			<li>Git</li>
 
-		<li>Mocha</li>
-		<li>Chai</li>
-		<li>PHPUnit</li>
-		<li>Object-Oriented Programming</li>
-	</ul>
+			<li>Pusher</li>
 
-</div>
+			<li>Mocha</li>
+			<li>Chai</li>
+			<li>PHPUnit</li>
+			<li>Object-Oriented Programming</li>
+		</ul>
 
-@include('templates.footer')
-
-</body>
-</html>
+	</div>
+@endsection

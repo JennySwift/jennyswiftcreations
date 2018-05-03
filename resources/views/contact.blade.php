@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    @include('templates.head-links')
-</head>
-<body>
-    <navbar></navbar>
+@extends('layouts.app')
 
-	<div id="contact-me" class="main">
+@section('content')
+    <div id="contact-me">
 
         <h1>Contact/Connect</h1>
 
@@ -24,9 +19,5 @@
 
 
 
-	</div>
-	
-	@include('templates.footer')
-		
-</body>
-</html>
+    </div>
+@endsection
