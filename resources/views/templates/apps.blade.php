@@ -18,7 +18,7 @@
 
         <div class="btn-container">
             {{--<button class="btn btn-warning">Info</button>--}}
-            <a class="btn btn-success" href="http://budget_playground.jennyswiftcreations.com/">Demo</a>
+            {{--<a class="btn btn-success" href="http://budget_playground.jennyswiftcreations.com/">Demo</a>--}}
             <a class="btn btn-success" href="https://github.com/JennySwift/budget">View On GitHub</a>
         </div>
 
@@ -35,7 +35,7 @@
         </div>
 
         <div class="btn-container">
-            <a class="btn btn-success" href="http://demo.homeschooling.jennyswiftcreations.com/">Demo</a>
+            {{--<a class="btn btn-success" href="http://demo.homeschooling.jennyswiftcreations.com/">Demo</a>--}}
         </div>
 
         <div class="img-container">
@@ -52,7 +52,7 @@
         </div>
 
         <div class="btn-container">
-            <a class="btn btn-success" href="http://listsplayground.jennyswiftcreations.com">Demo</a>
+            {{--<a class="btn btn-success" href="http://listsplayground.jennyswiftcreations.com">Demo</a>--}}
             <a class="btn btn-success" href="https://github.com/JennySwift/lists">View On GitHub</a>
         </div>
 
