@@ -61,6 +61,23 @@
         </div>
     </div>
 
+    <div class="app-container">
+        <h1>Move App</h1>
+
+        <div class="info-container">
+
+        </div>
+
+        <div class="btn-container">
+            <a class="btn btn-success" href="http://move.jennyswiftcreations.com">Demo</a>
+            <a class="btn btn-success" href="https://github.com/JennySwift/move">View On GitHub</a>
+        </div>
+
+        <div class="img-container">
+            <img src="img/move.png" alt=""/>
+        </div>
+    </div>
+
     {{--<div class="app-container">--}}
         {{--<h1>Time Tracking App</h1>--}}
 
