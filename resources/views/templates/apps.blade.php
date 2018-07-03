@@ -35,7 +35,7 @@
         </div>
 
         <div class="btn-container">
-            {{--<a class="btn btn-success" href="http://demo.homeschooling.jennyswiftcreations.com/">Demo</a>--}}
+            {{--<a class="btn btn-success" href="http://homeschooling.jennyswiftcreations.com/">Demo</a>--}}
         </div>
 
         <div class="img-container">
