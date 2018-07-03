@@ -4,7 +4,7 @@
     <div id="privacy-policy">
 
         <h1>Privacy Policy</h1>
-        <p>Last modified: 31/03/2016</p>
+        <p>Last modified: 3/07/2018</p>
 
         I respect your privacy and really want you to be comfortable using my creations. :)
 
@@ -75,6 +75,6 @@
         <p>If you are not satisfied with the process of making a complaint to me, you may make a complaint to the Information Commissioner on the details below:<br />Office of the Australian Information Commissioner<br />GPO Box 5218 Sydney NSW 2001 <br />Email: <a href="mailto:enquiries@oaic.gov.au">enquiries@oaic.gov.au</a> <br />Telephone: 1300 363 992 <br />Fax: 02 9284 9666</p>
 
         <h2>Demo Versions</h2>
-        <p>Please be aware that for the demo versions of my apps, other people who use the demo may see the data you enter, although the data does get reset regularly.</p>
+        <p>Please be aware that for my demos, the data is public, so others may see changes you make, and vice versa.</p>
     </div>
 @endsection
