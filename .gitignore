@@ -1,9 +1,24 @@
-/vendor
-/node_modules
-.env
-
 public/scss/.sass-cache
-
 .DS_Store
+storage/debugbar
 
-.idea
+# mocha-webpack
+.tmp
+
+npm-debug.log
+
+test-img/
+
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vscode
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env

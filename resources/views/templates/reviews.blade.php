@@ -55,7 +55,4 @@
         <p>Jenny Swift recently created a website for my counselling practice. She actively collaborated with me through the whole process to create a site that reflected my vision.  It was a pleasure to work with Jenny, as she helped me to think the process through, was prompt in all her dealings with me and provided me with a website that I am very happy with and met my professional and commercial expectations.</p>
         <p>Anonymous</p>
     </div>
-
-
-
 </div>

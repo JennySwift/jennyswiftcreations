@@ -10,4 +10,4 @@
 </script>
 
 <link href='https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="css/app.css">
+<link rel="stylesheet" href="{{ mix('/css/app.css') }}">
