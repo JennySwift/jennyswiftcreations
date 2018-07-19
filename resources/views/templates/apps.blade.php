@@ -52,7 +52,7 @@
         </div>
 
         <div class="btn-container">
-            {{--<a class="btn btn-success" href="http://listsplayground.jennyswiftcreations.com">Demo</a>--}}
+            <a class="btn btn-success" href="http://lists.jennyswiftcreations.com">Demo</a>
             <a class="btn btn-success" href="https://github.com/JennySwift/lists">View On GitHub</a>
         </div>
 
